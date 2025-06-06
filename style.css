@@ -66,3 +66,11 @@ ul {
 ul li {
   margin-bottom: 0.5rem;
 }
+
+/* Widen content area */
+.container {
+  max-width: 1000px; /* Default is ~740px, this gives ~35% more width */
+  margin: 0 auto;
+  padding: 2rem;
+}
+
