@@ -4,10 +4,5 @@ title: "first post"
 date: 2025-06-06
 ---
 
-blah
-
-blah blah
-
-BLAH BLAH BLAH BLAH.
-
-fujck you 
+<span style="color:red">This text is red</span>
+is it
