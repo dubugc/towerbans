@@ -2,3 +2,5 @@ title: "bugc test"
 description: "Uncensored reports, deleted posts, and moderation records."
 theme: jekyll-theme-cayman
 markdown: kramdown
+baseurl: "/towerbans"
+
