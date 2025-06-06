@@ -69,7 +69,7 @@ ul li {
 
 /* Widen content area */
 .container {
-  max-width: 1000px; /* Default is ~740px, this gives ~35% more width */
+  max-width: 1500px; /* Default is ~740px, this gives ~35% more width */
   margin: 0 auto;
   padding: 2rem;
 }
