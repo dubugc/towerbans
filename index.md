@@ -3,14 +3,6 @@ layout: default
 title: TowerBans
 ---
 
-<style>
-  .container {
-    max-width: 1000px; /* Expand width */
-    margin: 0 auto;
-    padding: 2rem;
-  }
-</style>
-
 <div class="container">
 
   <div style="text-align: center; margin-top: 2rem;">
