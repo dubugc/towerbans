@@ -1,13 +1,9 @@
 ---
 layout: default
-title: Tower Bans Archive
+title: Home
 ---
 
-# Tower Bans Archive
-
-Welcome. This site documents moderation issues, deleted posts, and banned players in Tower Unite.
-
-## Recent Posts
+# Blog Posts
 
 <ul>
   {% for post in site.posts %}
