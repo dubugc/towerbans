@@ -5,7 +5,7 @@ title: Tower Bans Archive
 
 # Tower Bans Archive
 
-blah
+Welcome. This site documents moderation issues, deleted posts, and banned players in Tower Unite.
 
 ## Recent Posts
 
