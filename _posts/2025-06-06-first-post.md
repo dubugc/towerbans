@@ -2,7 +2,7 @@
 <span style="color:teal">AAAA</span>
 
 ## Origin
-During the _Tower Unite 1.0.0.0_ Steam news post in **April**,
+During the _Tower Unite 1.0.0.0_ Steam news post in **April**, <br>
 **NixEmotions** raised a concern about a Chinese player named **SuSu**, who cheated to the top of the **Trivia Score** leaderboard - a position that typically takes players **years** to reach. 
 After she highlighted this, the developers **removed SuSu’s trivia score**, implying they also agreed it was illegitimate.  [(^)](https://steamcommunity.com/app/394690/eventcomments/604153951183464508?snr=1_2108_9__2107&ctp=8#c604153951183496049) 
 It's believed that if a player is caught cheating a minigame such as Trivia, then the players score is wiped to ZERO and they are only banned from that activity.
