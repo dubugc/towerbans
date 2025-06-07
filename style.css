@@ -1,84 +1,82 @@
-/* Basic Light Theme */
+/* Improved Dark Theme with stylish headers */
 
+/* Body and general text */
 body {
-  background-color: #fefefe;       /* light background */
-  color: #222222;                  /* dark text */
+  background-color: #1e1e2f;  /* a bit softer than pure black */
+  color: #dcdcdc;             /* softer white for less eye strain */
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
+  margin: 0;
+  padding: 0;
 }
 
-/* Main container layout */
+/* Main container */
 .container {
   width: 60%;
   max-width: 1200px;
-  margin: 2rem auto;
-  padding: 2rem;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* lighter shadow */
-  border-radius: 8px;
-  background-color: #fff;           /* white container */
+  margin: 3rem auto;
+  padding: 2.5rem 3rem;
+  background: #2c2c44;       /* subtle dark navy background */
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7);
+  border-radius: 12px;
+  border: 1px solid #444766;
 }
 
 /* Links */
 a {
-  color: #1a73e8;                /* bright blue */
+  color: #69a6ff;           /* bright but calm blue */
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 a:hover {
-  color: #155ab6;                /* darker blue */
+  color: #a0c4ff;
   text-decoration: underline;
 }
 
 a.back-link {
-  display: inline-block;
+  font-weight: 700;
+  color: #84a9ff;
   margin-bottom: 1.5rem;
-  font-weight: 600;
-  color: #1a73e8;
+  display: inline-block;
 }
 
 a.back-link:hover {
-  color: #155ab6;
-  text-decoration: underline;
+  color: #c0d6ff;
 }
 
 /* Headings */
 h1, h2 {
-  font-weight: 700;
-  letter-spacing: 0.03em;
+  font-weight: 800;
+  letter-spacing: 0.05em;
   margin-bottom: 1rem;
-  color: #111;                  /* dark headings */
-  word-break: break-word;
-  overflow-wrap: break-word;
+  color: #f0f8ff;  /* crisp off-white for headers */
+  text-shadow: 0 0 6px rgba(105, 166, 255, 0.8);
+  border-bottom: 2px solid #69a6ff;
+  padding-bottom: 0.3em;
 }
 
 /* Paragraphs */
 div.content p {
-  margin-bottom: 1.2rem;
-  font-size: 1.1rem;
-  color: #333;                  /* slightly lighter text */
-}
-
-/* Horizontal lines */
-hr {
-  border: none;
-  border-top: 1px solid #ccc;
-  margin: 2rem 0;
+  margin-bottom: 1.4rem;
+  font-size: 1.15rem;
+  color: #e2e2e8; /* slight gray tint */
 }
 
 /* Small text */
 small {
-  color: #666;
+  color: #888cb4;
+  font-style: italic;
 }
 
 /* Lists */
 ul {
-  padding-left: 1.5rem;
+  padding-left: 1.7rem;
   margin-bottom: 1.5rem;
 }
 
 ul li {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.7rem;
 }
 
 /* Images */
@@ -86,12 +84,26 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
-  margin: 1rem auto;
+  margin: 1.3rem auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.6);
 }
 
-/* Centered images using <img> tag */
-img.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+/* Horizontal lines */
+hr {
+  border: none;
+  border-top: 1px solid #444766;
+  margin: 2.5rem 0;
+}
+
+/* Code blocks or blockquotes for emphasis */
+blockquote {
+  background-color: #344169;
+  border-left: 5px solid #69a6ff;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  color: #cbd6f7;
+  font-style: italic;
+  border-radius: 6px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.5);
 }
