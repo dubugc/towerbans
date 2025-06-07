@@ -33,8 +33,11 @@ Since then, I've reappeared on the leaderboards **hundreds of times**. The syste
 
 It was undeniable proof that leaderboard bans were not working.
 <div style="text-align:center;">
-  <img src="https://i.imgur.com/73nTHSv.png" width="1400"/>
+  <a href="[https://your-link-here.com](https://i.imgur.com/73nTHSv.png)" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.imgur.com/73nTHSv.png" width="1400" />
+  </a>
 </div>
+
 
 ><span style="color:grey"> Flag64 is the worst flag you can receive on Tower Unite for this reason alone, because its PixelTails broken system that enables repeat appearances and inflates report counts, which then escalate into harsher bans like mutes, media restrictions, and server bans. </span>
 
