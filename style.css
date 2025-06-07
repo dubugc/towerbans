@@ -107,3 +107,13 @@ blockquote {
   border-radius: 6px;
   box-shadow: 0 3px 8px rgba(0,0,0,0.5);
 }
+
+/* Center all headers inside .content */
+.content h1, 
+.content h2, 
+.content h3, 
+.content h4, 
+.content h5, 
+.content h6 {
+  text-align: center;
+}
