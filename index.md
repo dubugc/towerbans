@@ -6,9 +6,9 @@ title: TowerBans
 <div class="container">
 
   <div style="text-align: center; margin-top: 2rem;">
-    <h1>🍔 TowerBans</h1>
+    <h1>🍔 TowerBans 🍔</h1>
     <p style="font-size: 1.2em; color: #bbb;">
-      A blog uncovering moderation issues, transparency problems, and broken systems in Tower Unite.
+      Transparency and fairness are paramount in our community.
     </p>
   </div>
 
