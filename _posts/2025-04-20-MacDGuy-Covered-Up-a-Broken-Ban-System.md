@@ -72,4 +72,4 @@ When I brought the archived links to his attention I was **banned from the forum
 
 <div style="text-align:center;">
   <img src="https://i.imgur.com/cPNa1hw.png" width="400"/>
-</div> </br>
+</div>
