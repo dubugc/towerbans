@@ -1,6 +1,7 @@
 
 ## Private Ban List
-It begins back when we started the **Tower Unite Bans** group. We made sure everything was above board. But along the way, discovered something wild:</br>
+It begins back when we started the **Tower Unite Bans** group. We made sure everything was above board. But along the way, discovered something wild:
+
 **PixelTail won’t hesitate to ban somebody who doesn’t even have the game in their library.**
 
 ---
