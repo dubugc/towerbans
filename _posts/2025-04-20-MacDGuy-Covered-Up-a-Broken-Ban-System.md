@@ -4,7 +4,9 @@ In **April**, during the _Tower Unite 1.0_ Steam news post<br>
 **NixEmotions** raised a concern, a Chinese player named **SuSu** had cheated  their way to the top of the **Trivia score** leaderboard - a position that typically takes players **years** to reach. <br>
 After she highlighted this, the devs **removed SuSu’s Trivia score**, implying they also agreed it was illegitimate.  [(^1)](https://steamcommunity.com/app/394690/eventcomments/604153951183464508?snr=1_2108_9__2107&ctp=8#c604153951183496049) 
 
-![enter image description here](https://i.imgur.com/HSEbxPo.png)
+<div style="text-align:center;">
+  <img src="https://i.imgur.com/HSEbxPo.png" width="400"/>
+</div> </br>
 
 Weeks later, Nix reported on SuSu again,<br>
 This time achieving rank **#3** in Bowlings **Total Score**, and **Perfect Games.**
@@ -24,7 +26,10 @@ At this point, there's no question that **there's something wrong with the ban s
 
 ## I Was the First Flag64
 Back in ~~2017~~ 2020, I received the first leaderboard ban.<br>
-![enter image description here](https://i.imgur.com/HjWxVLL.png)
+<div style="text-align:center;">
+  <img src="https://i.imgur.com/HjWxVLL.png" width="400"/>
+</div> </br>
+
 Since then, I've reappeared on the leaderboards **hundreds of times**. The system hasn't worked for years. [(^3)](https://web.archive.org/web/20250601003906/https://forums.pixeltailgames.com/t/1-0-0-0-suspicious-possibly-cheated-high-scores-by-a-specific-player-on-leaderboards-still-present-on-other-leaderboards/53241) And I proved it with **before-and-after** screenshots of me hitting rank **#1 Laser Tag**, despite being banned myself.
 
 It was undeniable proof that leaderboard bans were not working.
@@ -66,4 +71,6 @@ Whether the deletion was out of embarrassment or an attempt to bury the truth, i
 What Mac didn't anticipate was this: **I archived everything**.
 When I brought the archived links to his attention I was **banned from the forum for Harassment.** [(^6)](https://web.archive.org/web/20250601115047/https://forums.pixeltailgames.com/t/regarding-forum-moderation-leaderboard-ban-report/53402)
 
+<div style="text-align:center;">
   <img src="https://i.imgur.com/cPNa1hw.png" width="400"/>
+</div> </br>
