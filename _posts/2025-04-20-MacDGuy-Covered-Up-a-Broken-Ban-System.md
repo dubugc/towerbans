@@ -1,4 +1,3 @@
-# MacDGuy Covered Up a Broken Ban System
 ## Leaderboard Bans
 In **April**, during the _Tower Unite 1.0_ Steam news post<br>
 **NixEmotions** raised a concern, a Chinese player named **SuSu** had cheated  their way to the top of the **Trivia score** leaderboard - a position that typically takes players **years** to reach. <br>
@@ -6,7 +5,7 @@ After she highlighted this, the devs **removed SuSu’s Trivia score**, implying
 
 <div style="text-align:center;">
   <img src="https://i.imgur.com/HSEbxPo.png" width="400"/>
-</div> </br>
+</div>
 
 Weeks later, Nix reported on SuSu again,<br>
 This time achieving rank **#3** in Bowlings **Total Score**, and **Perfect Games.**
