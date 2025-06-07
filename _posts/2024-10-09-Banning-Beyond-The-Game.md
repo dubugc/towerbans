@@ -5,7 +5,7 @@ It begins back when we started the **Tower Unite Bans** group. We made sure ever
 
 ---
 
-Before publishing anything, **Chef Boyardee**, **[redacted]** and **myself** discussed emailing PixelTail. We'd encountered players who seemed to be using what we believed was a **moderator-only ban list** - they knew when, why, and hopw players were being muted or banned  *before the player even knew*.
+Before publishing anything, **Chef Boyardee**, **[redacted]** and **myself** discussed emailing PixelTail. We'd encountered players who seemed to be using what we believed was a **moderator-only ban list** - they knew when, why, and how players were being muted or banned  *before the player even knew*.
 
 PixelTail told us the data **was public**, not hidden behind private channels. So we took that at face value. If they're not stopping people from accessing this so-called “moderator list,” then there should be no issue with making it accessible to everyone.
 
@@ -52,9 +52,8 @@ I went back to building condos. That’s what got me permanently condo banned. B
   </a>
 </div>
 
-And here’s the twist.
-
-> **He doesn't even _OWN_ Tower Unite.**
+And here’s the twist. <br>
+**He doesn't even _OWN_ Tower Unite.**
 
 Boyardee was always just the dev behind the tool. Once the group was shut down, he moved on.<br>
 We went our separate ways, and yet… he got banned.
