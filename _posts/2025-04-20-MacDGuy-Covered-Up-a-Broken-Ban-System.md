@@ -1,0 +1,76 @@
+# MacDGuy Covered Up a Broken Ban System
+## Leaderboard Bans
+In **April**, during the _Tower Unite 1.0_ Steam news post<br>
+**NixEmotions** raised a concern, a Chinese player named **SuSu** had cheated  their way to the top of the **Trivia score** leaderboard - a position that typically takes players **years** to reach. <br>
+After she highlighted this, the devs **removed SuSu’s Trivia score**, implying they also agreed it was illegitimate.  [(^1)](https://steamcommunity.com/app/394690/eventcomments/604153951183464508?snr=1_2108_9__2107&ctp=8#c604153951183496049) 
+
+![enter image description here](https://i.imgur.com/HSEbxPo.png)
+
+Weeks later, Nix reported on SuSu again,<br>
+This time achieving rank **#3** in Bowlings **Total Score**, and **Perfect Games.**
+Nix believed if the Trivia score was wiped due to suspected cheating, it's only reasonable that **all** of SuSu’s scores be **scrutinised**, if not removed entirely, to maintain the **integrity of the leaderboards** and respect the time and effort of legitimate players.  [(^2)](https://forums.pixeltailgames.com/t/1-0-0-0-suspicious-possibly-cheated-high-scores-by-a-specific-player-on-leaderboards-still-present-on-other-leaderboards/53241)
+
+><span style="color:teal"> The player actually receives ***'flag64'*** , which is a leaderboard ban that affects every leaderboard across the game, not just the activity you were caught cheating in. The flag doesn't reset your score to zero, it just **temporarily** hides it at daily intervals.</span>
+
+Despite SuSu having been removed from the leaderboards numerous times now, Nix claims that they have once again managed to return to rank #1.<br>
+MacDGuy appeared from his cave, saying that he would look into it on Monday, and alas without intervention due to the already implemenmted automatic removal, they were take down from the leaderboards.
+
+It's now been **6 weeks** since the issue was first reported.<br>
+GateTheCat joined the conversation with another screenshot, showing that the person in question has yet again returned to rank **#1 in Trivia**.
+
+At this point, there's no question that **there's something wrong with the ban system**.
+
+## I Was the First Flag64
+Back in ~~2017~~ 2020, I received the first leaderboard ban.<br>
+![enter image description here](https://i.imgur.com/HjWxVLL.png)
+Since then, I've reappeared on the leaderboards **hundreds of times**. The system hasn't worked for years. [(^3)](https://web.archive.org/web/20250601003906/https://forums.pixeltailgames.com/t/1-0-0-0-suspicious-possibly-cheated-high-scores-by-a-specific-player-on-leaderboards-still-present-on-other-leaderboards/53241)
+
+PixelTail purges the leaderboards daily with a list of SteamID64's that has the Flag64, which *hides* everybody with leaderboard bans from being visible.<br>
+If you play before the next sweep, you're back on the leaderboard - no exploit, no hack, no bug, no bypass, no circumventing a ban.<br>
+There is no method involved at all. This is something out of the players control.
+
+
+And I proved it with **before-and-after** screenshots of me hitting rank **#1 Laser Tag**, despite being banned myself.
+
+It was undeniable proof that leaderboard bans were not working.
+
+![enter image description here](https://i.imgur.com/73nTHSv.png)
+
+> Flag64 is the worst flag you can receive on Tower Unite for this
+> reason alone, because its PixelTails broken system that enables repeat
+> appearances and inflates report counts, which then escalate into
+> harsher bans like mutes, media restrictions, and server bans.
+
+
+## MacDGuy Deleted My Report
+I posted my firsthand experience with the system's failure as a reply to the on-going thread. I explained how players with leaderboard bans were receiving **additional reports** - a pattern clearly visible in this very thread.  <br>
+In my own case, I was reported in **2024** for “hacking” my way onto the Laser Tag leaderboards **overnight**. PixelTail even referenced this in my 2024 ban appeal, stating that a large majority of reports against me are related to **exploits**, despite having a leaderboard ban 4 years earlier, reports are still  being accounted for.<br>
+The very loophole that allows banned players to reappear on the leaderboards is now being used as justification for further disciplinary action - simply because all reports are tied to your account, even when **no cheating** has occurred.
+
+The devs didn't respond to it. Instead, **MacDGuy deleted my post** and locked Nix's thread, leaving behind a vague message implying everything was under control.<br>
+But nothing changed. **SuSu was rank #1 again that same day.**
+
+## Exploits Should Not Be Shared Publicly
+I created my own thread asking *why* my post had been removed. [(^4)](https://web.archive.org/web/20250601074659/https://forums.pixeltailgames.com/t/moderation-impacting-mental-wellbeing/53401)
+Again, I laid out the facts and attached the screenshot as proof.  I offered to demonstrate the "bug "to MacDGuy in-game on how leaderboard bans currently fail to function.
+
+He **edited my thread** instead, deleting the attached proof, pretends I never reported the issue to the team originally, then **accused me of 'sharing exploits"**. [(^5)](https://web.archive.org/web/20250601092822/https://forums.pixeltailgames.com/t/moderation-impacting-mental-wellbeing/53401)
+
+![enter image description here](https://i.imgur.com/fH6Ui7w.png)
+
+
+## The Damage Done
+False accusations from a lead developer don’t just disappear.<br>
+Mac framed me as - "someone trying to help others bypass bans". Assigning malicious intent where there was none, and then locked the thread to shut down any chance of defending myself.
+
+To be clear: **I was not sharing exploits**.<br>
+I was exposing a broken system - one that has been silently failing for 5 years, dating back to **before the Arcade even existed**, when everyone was still gambling in the Casino.
+
+Whether the deletion was out of embarrassment or an attempt to bury the truth, it's clear PixelTail wanted this off the record. If word spread that leaderboard bans have never functioned correctly, it could force players to question the legitimacy of *other* bans too - which is a dangerous game for a dev team with a shaky moderation history.
+
+What Mac didn't anticipate was this: **I archived everything**.
+When I brought the archived links to his attention I was **banned from the forum for Harassment.** [(^6)](https://web.archive.org/web/20250601115047/https://forums.pixeltailgames.com/t/regarding-forum-moderation-leaderboard-ban-report/53402)
+
+<a href="https://web.archive.org/web/20250601115047/https://forums.pixeltailgames.com/t/regarding-forum-moderation-leaderboard-ban-report/53402" target="_blank">
+  <img src="https://i.imgur.com/cPNa1hw.png" width="400"/>
+</a>
