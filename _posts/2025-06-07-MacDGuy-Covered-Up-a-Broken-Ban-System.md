@@ -63,7 +63,7 @@ Mac framed me as - "someone trying to help others exploit bans". Assigning malic
 To be clear: **I was not sharing exploits**.<br>
 I was exposing a broken system - one that has been silently failing for 5 years, dating back to **before the Arcade even existed**, when everyone was still gambling in the Casino.
 
-Whether the deletion was out of embarrassment or an attempt to bury the truth, it's clear PixelTail wanted this off the record. If word spread that leaderboard bans have never functioned correctly, it could force players to question the legitimacy of *other* bans too - which is a dangerous game for a dev team with a shaky moderation history.
+Whether the deletion was out of embarrassment or an attempt to bury the truth, it's clear PixelTail wanted this off the record. It could force players to question the legitimacy of *other* bans too - which is a dangerous game for a dev team with a shaky moderation history.
 
 What Mac didn't anticipate was this: **I archived everything**. <br>
 When I brought the archived links to his attention, I was **banned from the forum for Harassment.** [(^6)](https://web.archive.org/web/20250601115047/https://forums.pixeltailgames.com/t/regarding-forum-moderation-leaderboard-ban-report/53402)
