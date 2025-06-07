@@ -1,5 +1,5 @@
 ## Leaderboard Bans
-In **April**, during the _Tower Unite 1.0_ Steam news post</br>
+In **April**, during the _Tower Unite 1.0_ Steam news post<br>
 **NixEmotions** raised a concern, a Chinese player named **SuSu** had cheated  their way to the top of the **Trivia score** leaderboard - a position that typically takes players **years** to reach. </br>
 After she highlighted this, the devs **removed SuSu’s Trivia score**, implying they also agreed it was illegitimate.  [(^1)](https://steamcommunity.com/app/394690/eventcomments/604153951183464508?snr=1_2108_9__2107&ctp=8#c604153951183496049) 
 
