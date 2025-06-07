@@ -39,6 +39,7 @@ It was undeniable proof that leaderboard bans were not working.
 </div>
 
 
+
 ><span style="color:grey"> Flag64 is the worst flag you can receive on Tower Unite for this reason alone, because its PixelTails broken system that enables repeat appearances and inflates report counts, which then escalate into harsher bans like mutes, media restrictions, and server bans. </span>
 
 
