@@ -11,17 +11,15 @@ Weeks later, Nix reported on SuSu again,<br>
 This time achieving rank **#3** in Bowlings **Total Score**, and **Perfect Games.**
 Nix believed if the Trivia score was wiped due to suspected cheating, it's only reasonable that **all** of SuSu’s scores be **scrutinised**, if not removed entirely, to maintain the **integrity of the leaderboards** and respect the time and effort of legitimate players.  [(^2)](https://forums.pixeltailgames.com/t/1-0-0-0-suspicious-possibly-cheated-high-scores-by-a-specific-player-on-leaderboards-still-present-on-other-leaderboards/53241)
 
-><span style="color:grey"> The player actually receives ***'flag64'*** , which is a leaderboard ban that affects every leaderboard across the game, not just the activity you were caught cheating in. The flag doesn't reset your score to zero, it just **temporarily** hides it.</br>
->If you play before the next sweep, you're back on the leaderboard - no exploit, no hack, no bug.</br>
+><span style="color:grey"> The player actually receives ***'flag64'*** , which is a leaderboard ban that affects every leaderboard across the game, not just the activity you were caught cheating in.
+>The flag doesn't reset your score to zero, it just **temporarily** hides it.
+>If you play before the next sweep, you're back on the leaderboard - no exploit, no hack, no bug.
 >There is no method involved at all. This is something out of the players control. </span>
 
-Despite SuSu having been removed from the leaderboards numerous times now, Nix claims that they have once again managed to return to rank #1.<br>
-MacDGuy appeared from his cave, saying that he would look into it on Monday, and alas without intervention due to the already implemenmted automatic removal, they were take down from the leaderboards.
+Despite SuSu having been removed from the leaderboards numerous times now, Nix claims that they have once again managed to return to rank #1. MacDGuy appeared from his cave, saying that he would look into it on Monday, and alas without intervention due to the already implemenmted automatic removal, they were take down from the leaderboards.
 
 It's now been **6 weeks** since the issue was first reported.<br>
-GateTheCat joined the conversation with another screenshot, showing that the person in question has yet again returned to rank **#1 in Trivia**.
-
-At this point, there's no question that **there's something wrong with the ban system**.
+GateTheCat joined the conversation with another screenshot, showing that the person in question has yet again returned to rank **#1 in Trivia**. At this point, there's no question that **there's something wrong with the ban system**.
 
 ## I Was the First Flag64
 Back in ~~2017~~ 2020, I received the first leaderboard ban.
