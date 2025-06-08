@@ -8,7 +8,7 @@
 > “An ambiguity or inadequacy in the system that allows someone to
 > bypass intended rules without technically breaking them.”
 
-## Leaderboard Bans
+## Leaderboard Reappearances
 In **April 2025**, **NixEmotions** raised a concern, a Chinese player named **SuSu** had cheated their way to the top of the **Trivia score** leaderboard - a position that typically takes players **years** to reach. <br>
 After she highlighted this, the devs **removed SuSu’s Trivia score** by applying a leaderboard ban onto their account, implying they also agreed it was illegitimate.  [(^1)](https://steamcommunity.com/app/394690/eventcomments/604153951183464508?snr=1_2108_9__2107&ctp=8#c604153951183496049) 
 
@@ -51,16 +51,16 @@ It was proof that leaderboard bans were not working.
 ><span style="color:grey"> Flag64 may be the worst flag you can receive, for the reason that PixelTails broken system enables repeat appearances on the leaderboard that inflates report counts, which then escalate into harsher bans like mutes, media restrictions, and server bans. </span>
 
 
-## The Cover-Up Begins
+## Leaderboard Loophole
 I shared my firsthand experience with the system's failure as a reply to the on-going thread. I explained how players with leaderboard bans were receiving **additional reports** - a pattern clearly visible in this very thread in relation to SuSu.  <br> In my own case, I was reported multiple times in **March 2024** for **cheating** my way onto the Laser Tag leaderboards **overnight**. 
-</div>
+
 <div style="text-align:center;">
   <a href="hhttps://i.imgur.com/V0utPz7.png" target="_blank" rel="noopener noreferrer">
     <img src="https://i.imgur.com/V0utPz7.png" width="400" />
   </a>
 </div>
 
-Those same reports were cited in my ban appeal. PixelTail stated I was banned due to an **accumulation of recent reports**, describing my behaviour as **part of an ongoing trend**.<br>They also acknowledged that **one of the major reports was about exploits** - even though I’d been banned from the leaderboards 4 years earlier. Despite that, reports accusing me of cheating the leaderboard seemed to still be taken seriously by staff - when I shouldn't be on the leaderboards to begin with.
+Those same reports were cited in my ban appeal. PixelTail stated I was banned due to an **accumulation of recent reports**, describing my behaviour as **part of an ongoing trend**.<br>They also acknowledged that **one of the major reports was about exploits** - even though I’d been banned from the leaderboards 4 years earlier. Instead of questioning why a banned player was showing up at all, staff took those reports at face value.
 
 <div style="text-align:center;">
   <a href="https://i.imgur.com/wFhtaHM.png" target="_blank" rel="noopener noreferrer">
@@ -80,7 +80,7 @@ The devs didn't respond. <br>Instead, my post exposing this flaw - and the repea
  But nothing changed. **SuSu was rank #1 again that same day.**
 
 ## Exploits Should Not Be Shared Publicly
-I created my own thread asking *why* my post had been removed.  [(^4)](https://web.archive.org/web/20250601074659/https://forums.pixeltailgames.com/t/moderation-impacting-mental-wellbeing/53401) <br>
+I created my own thread asking **why** my post had been removed.  [(^4)](https://web.archive.org/web/20250601074659/https://forums.pixeltailgames.com/t/moderation-impacting-mental-wellbeing/53401) <br>
 I laid out the facts one more time, and attached the screenshot as proof.  I offered to demonstrate to MacDGuy in-game on how leaderboard bans currently fail to function.
 
 He **edited my thread** instead. <br>
@@ -105,18 +105,20 @@ What Mac didn't anticipate was this: **I archived everything**. <br>When I broug
   <img src="https://i.imgur.com/cPNa1hw.png" width="400"/>
 </div>
 
-## Rejected in Record Time
+## Appeal Process Loophole
+Here’s the second loophole they won’t acknowledge:  
+They _can’t_ delete a banned player’s old score.
 
-After laying out my full appeal — archived links, screenshots, firsthand experience, and a direct request for clarification — it was rejected in under 3 hours.
+That score - the one that got you banned in the first place - still exists, sitting in the database.
+The only fix they’ve come up with is a cheap patchjob: They set their kitchen timer to auto refresh the scoreboard removing players from the leaderboard every time it refreshes. 
+And that’s why leaderboard ban appeals can never succeed.
 
-Most appeals take up to 3 weeks to be reviewed.
+Because if they lift the ban, your same score reappears, showing everyone the system never actually worked.  
+**Flag64 is permanent**, nobody has ever successfully appealed a leaderboard ban. 
 
-So what made mine different?
+PixelTail could rewrite the system to support leaderboard appeals, but that risks breaking achievements, milestones, or stat tracking. They’ve known this for years, but with only 6 active players out of 141 leaderboard bans, it’s not worth their effort to bother - and really, who's going to ever find out this information, **unless one of the 6 talks**.
+<div style="text-align:center;">
+  <img src="https://i.imgur.com/jWUFPAp.png" width="200"/>
+</div>
 
-I didn’t just report a bug. I was calling out a failure in the ban system, and more importantly, a failure in how MacDGuy handled it. The same person who edited my post, deleted the screenshots, and publicly accused me of “sharing exploits” instead of acknowledging the issue.
-
-He’d already made up his mind. I wasn’t just appealing a mute. I was now someone challenging the way he runs moderation.
-
-The appeal didn’t get a response. It got closed — fast. No counter-argument, no explanation, no actual review. Just a vague rejection and that was it.
-
-If this is what passes for an appeal process, then there was never going to be a fair outcome.
+PixelTails appeal process is nothing more than a PR stunt. 
