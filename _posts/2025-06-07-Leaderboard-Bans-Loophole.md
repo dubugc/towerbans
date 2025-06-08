@@ -1,4 +1,5 @@
 
+
 ### tldr
  -   The leaderboard ban (Flag64) is supposed to prevent banned users from appearing on leaderboards<br>
  - But due to how the system works, **the ban only hides players temporarily**, they will reappear.
@@ -19,13 +20,13 @@ After she highlighted this, the devs **removed SuSu’s Trivia score** by applyi
 Weeks later Nix reported on SuSu again, this time SuSu achieved rank **#3** in Bowlings **Total Score**, and **Perfect Games.** <br>
 Nix believed if the Trivia score was wiped due to suspected cheating, it's only reasonable that **all** of SuSu’s scores be **scrutinised**, if not removed entirely, to maintain the **integrity of the leaderboards** and respect the time and effort of legitimate players.  [(^2)](https://forums.pixeltailgames.com/t/1-0-0-0-suspicious-possibly-cheated-high-scores-by-a-specific-player-on-leaderboards-still-present-on-other-leaderboards/53241)
 
-><span style="color:grey"> The player already received a leaderboard ban ***( flag64 )***  that affects every leaderboard across the game, not just the activity you were caught cheating in.
+> The player already received a leaderboard ban ***( flag64 )***  that affects every leaderboard across the game, not just the activity you were caught cheating in.
 >The flag doesn't reset your score to zero, it just **temporarily** hides it.
 >If you play before the next sweep, you're back on the leaderboard - no exploit, no hack, no bug.
->There is no method involved at all. This is something out of the players control. </span>
+>There is no method involved at all. This is something out of the players control. 
 
 Despite SuSu having been removed from the leaderboards numerous times now, Nix claims that they are once again rank 1. <br>
-MacDGuy emerged from his cave, saying that he would look into it on Monday. Without any intervention by Mac due to the already implemented leaderboard ban, SuSu was automatically removed from the leaderboards for the 2nd known time.
+MacDGuy appeared, saying that he would look into it on Monday. Without any intervention by Mac due to the already implemented leaderboard ban, SuSu was automatically removed from the leaderboards for the 2nd known time.
 
 It's now been **6 weeks** since the issue was first reported.<br>
 GateTheCat joined the conversation showing a screenshot of SuSu yet again returning to rank **#1 in Trivia**. <br>
@@ -37,7 +38,7 @@ At this point, there's no question that **there's something wrong with the ban s
     <img src="https://i.imgur.com/4jDaUSM.png" width="200" />
   </a>
 </div>
-Back in ~~2017~~ **2020**, I received the first leaderboard ban. <br>
+Back in **~2020**, I received the first leaderboard ban. <br>
 Since then, I've reappeared on the leaderboards **hundreds of times**. The system hasn't worked for years. [(^3)](https://web.archive.org/web/20250601003906/https://forums.pixeltailgames.com/t/1-0-0-0-suspicious-possibly-cheated-high-scores-by-a-specific-player-on-leaderboards-still-present-on-other-leaderboards/53241) And I proved it with **before-and-after** screenshots of reaching rank **#1 Laser Tag**, despite being banned myself.
 It was proof that leaderboard bans were not working.
 <div style="text-align:center;">
@@ -60,7 +61,7 @@ I shared my firsthand experience with the system's failure as a reply to the on-
   </a>
 </div>
 
-Those same reports were cited in my ban appeal. PixelTail stated I was banned due to an **accumulation of recent reports**, describing my behaviour as **part of an ongoing trend**.<br>They also acknowledged that **one of the major reports was about exploits** - even though I’d been banned from the leaderboards 4 years earlier. Instead of questioning why a banned player was showing up at all, staff took those reports at face value.
+Those same reports from March were cited in my ban appeal. PixelTail stated I was banned due to an **accumulation of recent reports**, describing my behaviour as **part of an ongoing trend**.<br>They also acknowledged that **one of the major reports was about exploits** - even though I’d been banned from the leaderboards 4 years earlier. Instead of questioning why a banned player was showing up at all, staff took those reports at face value.
 
 <div style="text-align:center;">
   <a href="https://i.imgur.com/wFhtaHM.png" target="_blank" rel="noopener noreferrer">
@@ -74,9 +75,9 @@ Those same reports were cited in my ban appeal. PixelTail stated I was banned du
   </a>
 </div>
 
-><span style="color:grey"> Each reappearance invites new reports, which are then **counted against your account**, regardless of whether any actual cheating occurred. When you finally get banned, MacDGuy cites these accumulated reports as justification. **All reports are tied to your account, valid or not.** </span>
+Each reappearance invites new reports, which are then **counted against your account**, regardless of whether any actual cheating occurred. When you finally get banned, MacDGuy cites these accumulated reports as justification. **All reports are tied to your account, valid or not.**
 
-The devs didn't respond. <br>Instead, my post exposing this flaw - and the repeated reappearance of banned players - was **deleted by MacDGuy**. He then locked Nix’s thread and left behind a vague message implying _everything was under control_.
+The devs didn't respond. <br>Instead, my post exposing this flaw - and the repeated reappearance of banned players - was **deleted by MacDGuy**. He then locked Nix’s thread and left behind a vague message implying _everything was under control_. <br>
  But nothing changed. **SuSu was rank #1 again that same day.**
 
 ## Exploits Should Not Be Shared Publicly
@@ -110,15 +111,15 @@ Here’s the second loophole they won’t acknowledge:
 They _can’t_ delete a banned player’s old score.
 
 That score - the one that got you banned in the first place - still exists, sitting in the database.
-The only fix they’ve come up with is a cheap patchjob: They set their kitchen timer to auto refresh the scoreboard removing players from the leaderboard every time it refreshes. 
+The only fix they’ve come up with is a cheap patch job: They’ve set the system to auto-refresh and remove flagged players from the leaderboard every cycle.
 And that’s why leaderboard ban appeals can never succeed.
 
 Because if they lift the ban, your same score reappears, showing everyone the system never actually worked.  
 **Flag64 is permanent**, nobody has ever successfully appealed a leaderboard ban. 
 
-PixelTail could rewrite the system to support leaderboard appeals, but that risks breaking achievements, milestones, or stat tracking. They’ve known this for years, but with only 6 active players out of 141 leaderboard bans, it’s not worth their effort to bother - and really, who's going to ever find out this information, **unless one of the 6 talks**.
+PixelTail could rewrite the system to support leaderboard appeals, but that risks breaking achievements, milestones, or stat tracking. With only 6 active players out of 141 leaderboard bans, it’s not worth their effort to bother - and really, who's going to ever find out this information, **unless one of the 6 talks**.
 <div style="text-align:center;">
   <img src="https://i.imgur.com/jWUFPAp.png" width="200"/>
 </div>
 
-PixelTails appeal process is nothing more than a PR stunt. 
+PixelTail’s appeal process is nothing more than a PR stunt.
