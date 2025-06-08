@@ -55,7 +55,7 @@ It was proof that leaderboard bans were not working.
 I shared my firsthand experience with the system's failure as a reply to the on-going thread. I explained how players with leaderboard bans were receiving **additional reports** - a pattern clearly visible in this very thread in relation to SuSu.  <br> In my own case, I was reported multiple times in **March 2024** for **cheating** my way onto the Laser Tag leaderboards **overnight**. 
 
 <div style="text-align:center;">
-  <a href="hhttps://i.imgur.com/V0utPz7.png" target="_blank" rel="noopener noreferrer">
+  <a href="https://i.imgur.com/V0utPz7.png" target="_blank" rel="noopener noreferrer">
     <img src="https://i.imgur.com/V0utPz7.png" width="400" />
   </a>
 </div>
