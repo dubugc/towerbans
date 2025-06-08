@@ -66,7 +66,7 @@ Those same reports were cited in my ban appeal. PixelTail stated I was banned du
   <a href="https://i.imgur.com/wFhtaHM.png" target="_blank" rel="noopener noreferrer">
     <img src="https://i.imgur.com/wFhtaHM.png" width="1000" />
   </a>
-
+</div>
 
 <div style="text-align:center;">
   <a href="https://i.imgur.com/4zbAAeF.png" target="_blank" rel="noopener noreferrer">
