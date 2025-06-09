@@ -125,7 +125,13 @@ blockquote {
   max-width: 70%;
   margin-left: auto;
   margin-right: auto;
+  padding: 2rem;                  /* space inside the box */
+  border: 1px solid #ccc;        /* light grey border */
+  border-radius: 8px;            /* rounded corners, soft look */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);  /* subtle shadow for depth */
+  background-color: #fff;        /* white background to stand out */
 }
+
 
 
 
