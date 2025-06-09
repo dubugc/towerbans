@@ -1,7 +1,6 @@
 ## Complete List Bannable Tower Unite Rules
 
-All rules listed have been officially stated by Pixeltail Staff on their forums, Discord, in-game, email replies, and moderation appeals.
-
+All rules listed have been officially stated by Pixeltail Staff on their forums, Discord, in-game, email replies, and moderation appeals.  <br>
 However, some rules are not disclosed and only become known after someone is banned and comes forward, indicating potential abuse of moderation.
 
 ### In-game Rules
