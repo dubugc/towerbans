@@ -125,7 +125,7 @@ blockquote {
 .sticky-nav {
   position: sticky;
   top: 0;
-  background: #1a1a1f;
+  background: #1a1a1f;       /* your preferred dark color */
   padding: 0.75rem 1rem;
   z-index: 1000;
   border-bottom: 1px solid #333;
@@ -140,6 +140,17 @@ blockquote {
 
 .sticky-nav a:hover {
   text-decoration: underline;
+}
+
+.back-link {
+  font-weight: 700;
+  color: #84a9ff;
+  margin-bottom: 1.5rem;
+  display: inline-block;
+}
+
+.back-link:hover {
+  color: #c0d6ff;
 }
 
 
