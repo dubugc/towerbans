@@ -10,6 +10,32 @@
   
   <!-- Stylesheet -->
   <link rel="stylesheet" href="{{ site.baseurl }}/style.css" />
+  
+  <style>
+    /* Make page-wrapper 70% width and center it, creating 15% margins on sides */
+    .page-wrapper {
+      max-width: 70%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    /* Basic sticky navbar style */
+    .sticky-nav {
+      position: sticky;
+      top: 0;
+      background: white;
+      border-bottom: 1px solid #ccc;
+      padding: 0.5rem 1rem;
+      z-index: 1000;
+    }
+
+    /* Optional: back-link styling */
+    .back-link {
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+  </style>
 </head>
 <body>
   <div class="page-wrapper">
