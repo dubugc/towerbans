@@ -78,7 +78,7 @@ PixelTail cited these reports from **March 2024** in my ban appeal and stated I 
 ## 4. Censorship & Gaslighting
 I sought to understand the reasoning for my posts removal, by laying out the facts one more time, attaching the screenshot as proof again. I offered to demonstrate to MacDGuy in-game on how leaderboard bans currently fail to function.  [(^4)](https://web.archive.org/web/20250601074659/https://forums.pixeltailgames.com/t/moderation-impacting-mental-wellbeing/53401) 
 
-He **edited my thread** instead, deleting the attached proof and pretends in the *'deleted-post'* that I never reported the leaderboard issue to the moderation team initially. [(^5)](https://web.archive.org/web/20250601092822/https://forums.pixeltailgames.com/t/moderation-impacting-mental-wellbeing/53401)
+Mac **edited my thread** instead, deleting the attached proof and pretends in the *'deleted-post'* that I never reported the leaderboard issue to the moderation team initially. [(^5)](https://web.archive.org/web/20250601092822/https://forums.pixeltailgames.com/t/moderation-impacting-mental-wellbeing/53401)
 <div style="text-align:center;">
   <img src="https://i.imgur.com/fH6Ui7w.png" width="600"/>
 </div>
@@ -95,10 +95,10 @@ When I later called him a **liar** for deleting proof and painting me in a false
 Here’s the second flaw they won’t acknowledge:  
 They _can’t_ delete a banned player’s old score.
 
-That score the one that triggered the original ban is still stored in the database. <br>The only fix they’ve come up with is a cheap patch job: They’ve set the system to auto-refresh and remove flagged players from the leaderboard every cycle.
+That score, the one that triggered the original ban is still stored in the database. <br>The only fix they’ve come up with is a cheap patch job: They’ve set the system to auto-refresh and remove flagged players from the leaderboard every cycle.
 And that’s why leaderboard ban appeals can never succeed.
 
-Because if they lift the ban, your same score reappears, showing everyone the system never actually worked. 
+**Because if they lift the ban, your same score reappears**, showing everyone the system never actually worked. 
 
 They could rewrite the system to properly remove scores and allow **real appeals,** but that would risk breaking internal systems tied to achievements, stats, or milestones.
 The entire process is a facade, dressed up to look like fairness, and with only **6 actively playing users with leaderboard bans** - it’s not worth fixing, nobody is ever going to find out about these loopholes unless one of the 6 talks.
