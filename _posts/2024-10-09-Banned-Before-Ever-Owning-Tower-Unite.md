@@ -48,7 +48,7 @@ I went back to building condos - until I was permanently condo banned. And I was
 
 
 Boyardee was always just my backend dev for the group, once the tool was built and the group was taken down by Valve, he moved on. 
-He wasn’t in the game when the ban happened. He's never *opened* the game. **Boyardee doesn't even **own** the game.**
+He wasn’t in the game when the ban happened. He's never *opened* the game. **Boyardee doesn't even own the game.**
 
 > "This makes the unfair bans many of you experience actually within the game more apparent than ever. And if they’re extending bans beyond the game itself, it’s something we should all be concerned about." – Chef Boyardee. [(^1)](https://steamcommunity.com/groups/towerunitebans)
 
