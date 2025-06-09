@@ -18,7 +18,7 @@ In **April 2025**, **NixEmotions** raised a concern, a Chinese player named **Su
 
 <br>Weeks later, SuSu reappeared - this time ranking #3 in Bowling. The ban had been applied, yet the player’s scores kept returning. [(^1)](https://steamcommunity.com/app/394690/eventcomments/604153951183464508?snr=1_2108_9__2107&ctp=8#c604153951183496049) 
 
-Nix believed if the Trivia score was wiped due to suspected cheating, it's only reasonable that **all** of SuSu’s scores be **scrutinised**, if not removed entirely, to maintain the **integrity of the leaderboards** and respect the time and effort of legitimate players. SuSu's scores *were* removed, but the system allows reappearances onto the leaderboards within minutes after the server refresh.
+Nix believed if the Trivia score was wiped due to suspected cheating, it's only reasonable that **all** of SuSu’s scores be **scrutinised**, if not removed entirely, to maintain the **integrity of the leaderboards** and respect the time and effort of legitimate players. <br> SuSu's scores *were* removed, but the system allows reappearances onto the leaderboards within minutes after the server refresh.
 
 Despite multiple reports and the ban still in place, **SuSu would later reclaim #1 in Trivia, again.**
 
@@ -28,16 +28,13 @@ SuSu's case isn't isolated - I've experienced the same issue firsthand.
 
 
 ###  My Own Case
-In **2020**, I received *the* first leaderboard ban.
-
 <div style="text-align:center;">
   <a href="https://i.imgur.com/4jDaUSM.png" target="_blank" rel="noopener noreferrer">
     <img src="https://i.imgur.com/4jDaUSM.png" width="200" />
   </a>
 </div>
 
- <br> By 2024, I had reappeared on the leaderboards **hundreds of times,**  [(^3)](https://web.archive.org/web/20250601003906/https://forums.pixeltailgames.com/t/1-0-0-0-suspicious-possibly-cheated-high-scores-by-a-specific-player-on-leaderboards-still-present-on-other-leaderboards/53241) because it's still possible to gain score and increase your position in the boards despite having the ban, and I proved it with **before-and-after** screenshots of reaching rank **#1 in Laser Tag**.
-It was proof that leaderboard bans were not working.
+In **March 2020**, I received *the* first leaderboard ban. <br> By 2024, I had reappeared on the leaderboards **hundreds of times,**  [(^3)](https://web.archive.org/web/20250601003906/https://forums.pixeltailgames.com/t/1-0-0-0-suspicious-possibly-cheated-high-scores-by-a-specific-player-on-leaderboards-still-present-on-other-leaderboards/53241) - including reappearing at #1 in Laser Tag, the same position I held before the ban. The system still allows banned users to gain new score and passively climb the leaderboards - or simply reappear where they once were. I proved it with **before-and-after** screenshots showing my banned account reappearing at rank **#1,** unchanged since 2020. <br> It was proof that leaderboard bans were not working.
 <div style="text-align:center;">
   <a href="https://i.imgur.com/73nTHSv.png" target="_blank" rel="noopener noreferrer">
     <img src="https://i.imgur.com/73nTHSv.png" width="1400" />
@@ -50,8 +47,8 @@ The devs didn't respond. <br>Instead, my post exposing this flaw - and the repea
  But nothing changed. **SuSu was rank #1 again that same day.**
 
 ## 3. Leaderboard Loophole
-Each reappearance triggers more reports on players with leaderboard bans - a pattern clearly visible with what's going on with SuSu.
-PixelTail used those additional new reports to justify further punishments like mutes and server bans - never questioning why a banned player was visible in the first place. 
+Each reappearance triggers more reports on players with leaderboard bans - a pattern clearly visible with what's going on in Nix's thread.
+PixelTail uses those additional new reports to justify further punishments like mutes and server bans - never questioning why a banned player was visible in the first place. 
 
 In my own case, I was reported multiple times in **March 2024** for **cheating** my way onto the Laser Tag leaderboards **overnight**. 
 
@@ -86,9 +83,9 @@ He **edited my thread** instead, deleting the attached proof and pretends in the
   <img src="https://i.imgur.com/fH6Ui7w.png" width="600"/>
 </div>
 
-When the broken system was exposed, PixelTail’s response was **accuse me of spreading exploits** as justification for its removal. <br>  To be clear, I was not sharing exploits. I reported a system that had not worked as intended for the last 5 years, dating back to **before the Arcade even existed**, when everyone was still gambling in the Casino. <br> It’s obvious they didn’t want the flaw publicly documented.
+When the broken system was exposed, MacDGuys response was **accusing me of spreading exploits** as justification for its removal. <br>  To be clear, I was not sharing exploits. I reported a system that had not worked as intended for the last 5 years, dating back to **before the Arcade even existed**, when everyone was still gambling in the Casino. <br>
 
-When I later called him a **liar** for deleting proof and defaming me on his platform, I was swiftly banned from the forum for “Harassment.” [(^6)](https://web.archive.org/web/20250601115047/https://forums.pixeltailgames.com/t/regarding-forum-moderation-leaderboard-ban-report/53402)
+When I later called him a **liar** for deleting proof and painting me in a false light on his platform, I was swiftly banned from the forum for “Harassment.” [(^6)](https://web.archive.org/web/20250601115047/https://forums.pixeltailgames.com/t/regarding-forum-moderation-leaderboard-ban-report/53402)
 
 <div style="text-align:center;">
   <img src="https://i.imgur.com/cPNa1hw.png" width="400"/>
@@ -104,7 +101,7 @@ And that’s why leaderboard ban appeals can never succeed.
 Because if they lift the ban, your same score reappears, showing everyone the system never actually worked. 
 
 They could rewrite the system to properly remove scores and allow **real appeals,** but that would risk breaking internal systems tied to achievements, stats, or milestones.
-The entire process is a facade, dressed up to look like fairness, and with only **6 actively playing users with leaderboard bans** it’s not worth their time, unless one of the 6 talks.
+The entire process is a facade, dressed up to look like fairness, and with only **6 actively playing users with leaderboard bans** - it’s not worth fixing, nobody is ever going to find out about these loopholes unless one of the 6 talks.
 
 
 <div style="text-align:center;">
