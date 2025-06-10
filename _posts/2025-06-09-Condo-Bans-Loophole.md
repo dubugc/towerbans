@@ -1,0 +1,10 @@
+## Condo Bans Loophole
+
+wip
+
+
+<div style="text-align:center;">
+  <a href="https://i.imgur.com/yeThU44.png" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.imgur.com/yeThU44.png" width="600" />
+  </a>
+</div>
