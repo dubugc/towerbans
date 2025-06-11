@@ -1,14 +1,23 @@
+## 1. How It Works
+On February 19th 2024, MacDGuy confirmed that **cheating scores is a difficult problem to completely resolve**, and this discussion will explain why.
 
-## 1. How It Fails
+Any player who cheats will receive a leaderboard ban, according to MacDGuy. This means the player is permanently banned from having their scores display on leaderboards and their current scores wiped. PixelTail mentioned that they receive 3 reports weekly regarding players cheating scores, and that they are actively removing entries quite often. <br>
+This doesn't make sense to me, with only 3 reports a week, they should only wipe 3 entries. <br> Why is PixelTail actively removing and managing leaderboard bans quite often?
+
+<div style="text-align:center;">
+  <img src="https://i.imgur.com/8DghpLV.png" width="800"/>
+</div>
+
+## 2. How It Fails
 
 A **leaderboard ban** (internally marked as _Flag64_) is supposed to prevent banned users from appearing on leaderboards.
 
-But it doesn’t delete the player’s score. Instead, it tags them, and a background system periodically sweeps those flagged users off the boards. Until that sweep runs again, the banned player remains visible - on every leaderboard across the game, not just the one they were banned from. <br> Those reappearances then  **generate fresh reports**, which are later used against the player as evidence of repeated misconduct.
+But it doesn’t delete the player’s score. Instead, it *tags* them, and a background system periodically hides those flagged users off the leaderboards. <br>Until that system runs again - the banned player remains visible, on every leaderboard across the game, not just the one they were banned from. Those reappearances then  **generate fresh reports** of cheating scores, which are later used against the player as evidence of repeated misconduct.
 
 There’s no exploit, no hack, and no workaround involved.
 The player has **zero control** over this reappearance. 
 
-## 2. Reappearances Amplify Punishment
+## 3. Reappearances Amplify Punishment
 ###  The Case of SuSu
 In **April 2025**, **NixEmotions** raised a concern, a Chinese player named **SuSu** had cheated their way to the top of the **Trivia** leaderboard. The devs responded by applying a leaderboard ban and removing that specific score. 
 
@@ -27,7 +36,7 @@ It's now been **6 weeks** since the issue was first reported, and GateTheCat joi
 SuSu's case isn't isolated - I've experienced the same issue firsthand.
 
 
-###  My Own Case
+###  4. My Own Case
 <div style="text-align:center;">
   <a href="https://i.imgur.com/4jDaUSM.png" target="_blank" rel="noopener noreferrer">
     <img src="https://i.imgur.com/4jDaUSM.png" width="200" />
@@ -46,7 +55,7 @@ In **March 2020**, I received *the* first leaderboard ban. <br> By 2024, I had r
 The devs didn't respond. <br>Instead, my post exposing this flaw - and the repeated reappearance of banned players - was **deleted by MacDGuy**. He then locked Nix’s thread and left behind a vague message implying _everything was under control_. <br>
  But nothing changed. **SuSu was rank #1 again that same day.**
 
-## 3. Leaderboard Loophole
+## 5. Leaderboard Loophole
 Each reappearance triggers more reports on players with leaderboard bans - a pattern clearly visible with what's going on in Nix's thread.
 PixelTail uses those additional new reports to justify further punishments like mutes and server bans - never questioning why a banned player was visible in the first place. 
 
@@ -75,7 +84,7 @@ PixelTail cited these reports from **March 2024** in my ban appeal and stated I 
 
 
 
-## 4. Censorship & Gaslighting
+## 6. Censorship & Gaslighting
 I sought to understand the reasoning for my posts removal, by laying out the facts one more time, attaching the screenshot as proof again. I offered to demonstrate to MacDGuy in-game on how leaderboard bans currently fail to function.  [(^4)](https://web.archive.org/web/20250601074659/https://forums.pixeltailgames.com/t/moderation-impacting-mental-wellbeing/53401) 
 
 Mac **edited my thread** instead, deleting the attached proof and pretends in the *'deleted-post'* that I never reported the leaderboard issue to the moderation team initially. [(^5)](https://web.archive.org/web/20250601092822/https://forums.pixeltailgames.com/t/moderation-impacting-mental-wellbeing/53401)
@@ -83,29 +92,40 @@ Mac **edited my thread** instead, deleting the attached proof and pretends in th
   <img src="https://i.imgur.com/fH6Ui7w.png" width="600"/>
 </div>
 
-When the broken system was exposed, MacDGuys response was **accusing me of spreading exploits** as justification for its removal. <br>  To be clear, I was not sharing exploits. I reported a system that had not worked as intended for the last 5 years, dating back to **before the Arcade even existed**, when everyone was still gambling in the Casino. <br>
-
-When I later called him a **liar** for deleting proof and painting me in a false light on his platform, I was swiftly banned from the forum for “Harassment.” [(^6)](https://web.archive.org/web/20250601115047/https://forums.pixeltailgames.com/t/regarding-forum-moderation-leaderboard-ban-report/53402)
+When the broken system was exposed, MacDGuys response was **accusing me of spreading exploits** as justification for its removal. <br>  I reported a system that had not worked as intended for the last 5 years, dating back to **before the Arcade even existed.** I later called him a **liar** for deleting proof and painting me in a false light on his platform, I was swiftly banned from the forum for “Harassment.” [(^6)](https://web.archive.org/web/20250601115047/https://forums.pixeltailgames.com/t/regarding-forum-moderation-leaderboard-ban-report/53402)
 
 <div style="text-align:center;">
   <img src="https://i.imgur.com/cPNa1hw.png" width="400"/>
 </div>
 
-## 5. Appeal Process Loophole
+## 7. Appeal Process Loophole
 Here’s the second flaw they won’t acknowledge:  
-They _can’t_ delete a banned player’s old score.
+They _can’t_ delete a banned player’s old score. 
 
-That score, the one that triggered the original ban is still stored in the database. <br>The only fix they’ve come up with is a cheap patch job: They’ve set the system to auto-refresh and remove flagged players from the leaderboard every cycle.
-And that’s why leaderboard ban appeals can never succeed.
+MacDGuy led the community to believe that scores were wiped. That’s dishonest. <br> The truth is, **PixelTail doesn’t even have the infrastructure to reset scores**.
 
-**Because if they lift the ban, your same score reappears**, showing everyone the system never actually worked. 
+Your score is still stored in the database. The only fix they’ve come up with is a cheap patch job: They’ve set the system to auto-refresh and remove flagged players from the leaderboard every cycle.
 
-They could rewrite the system to properly remove scores and allow **real appeals,** but that would risk breaking internal systems tied to achievements, stats, or milestones.
-The entire process is a facade, dressed up to look like fairness, and with only **6 actively playing users with leaderboard bans** - it’s not worth fixing, nobody is ever going to find out about these loopholes unless one of the 6 talks.
+And that’s why leaderboard ban appeals **can never succeed**.
+If they lift the ban, the same cheated score instantly reappears - exposing the fact that the system never actually removed it. <br>It proves the “ban” was not working as intended to begin with.
+
+With just a handful of acively playing users affected with this type of ban, PixelTail can comfortably ignore the problem, knowing the chances of anyone exposing how broken the system is are practically zero.
 
 
 <div style="text-align:center;">
   <img src="https://i.imgur.com/jWUFPAp.png" width="200"/>
 </div>
 
-PixelTail’s appeal process is nothing more than a PR stunt. 
+
+
+---
+
+I submitted my first ever leaderboard appeal after **five years**. They denied it after 3 hours.
+The appeal system isn’t there to offer second chances - it’s there to look like one exists. **More on this later.**
+
+
+
+<div style="text-align:center;">
+  <img src="https://i.imgur.com/KbM4bUW.png" width="600"/>
+</div>
+
