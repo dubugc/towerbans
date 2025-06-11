@@ -103,10 +103,7 @@ They _can’t_ delete a banned player’s old score.
 
 MacDGuy led the community to believe that scores were wiped. That’s dishonest. <br> The truth is, **PixelTail doesn’t even have the infrastructure to reset scores**.
 
-Your score is still stored in the database. The only fix they’ve come up with is a cheap patch job: They’ve set the system to auto-refresh and remove flagged players from the leaderboard every cycle.
-
-And that’s why leaderboard ban appeals **can never succeed**.
-If they lift the ban, the same cheated score instantly reappears - exposing the fact that the system never actually removed it. It proves the “ban” was not working as intended to begin with.
+Your score is still stored in the database. The only fix they’ve come up with is a cheap patch job: They’ve set the system to auto-refresh and remove flagged players from the leaderboard every cycle. And that’s why leaderboard ban appeals **can never succeed**. <br> If they lift the ban, the same cheated score instantly reappears - exposing the fact that the system never actually removed it. It proves the “ban” was not working as intended to begin with.
 
 With just a handful of users affected with this ban still playing the game, PixelTail can comfortably ignore the problem, knowing the chances of anyone exposing how broken the system is are practically zero.
 
@@ -119,7 +116,7 @@ With just a handful of users affected with this ban still playing the game, Pixe
 
 ---
 
-I submitted my first ever leaderboard appeal after **five years**. They denied it after 3 hours. <br> The appeal system isn’t there to offer second chances - it’s there to look like one exists.
+I submitted my first ever leaderboard appeal after **five years**. They denied it in 3 hours. <br> The appeal system isn’t there to offer second chances - it’s there to look like one exists.
 
 
 
