@@ -1,8 +1,7 @@
 ## 1. How It Works
-On February 19th 2024, MacDGuy confirmed that **cheating scores is a difficult problem to completely resolve**, and this discussion will explain why.
+On February 19th 2024, MacDGuy confirmed that **cheating scores is a difficult problem to completely resolve**,
 
-Any player who cheats will receive a leaderboard ban, according to MacDGuy. This means the player is permanently banned from having their scores display on leaderboards and their current scores wiped. PixelTail mentioned that they receive 3 reports weekly regarding players cheating scores, and that they are actively removing entries quite often. <br>
-This doesn't make sense to me, with only 3 reports a week, they should only wipe 3 entries. <br> Why is PixelTail actively removing and managing leaderboard bans quite often?
+According to MacDGuy, any player who cheats will receive a leaderboard ban. This means the player is permanently banned from having their scores display on leaderboards and their current scores wiped. PixelTail mentioned that they receive 3 reports weekly regarding players cheating scores, and that they are actively removing entries quite often. <br> but this doesn't make sense to me, with only 3 reports a week, they should only wipe 3 entries. <br> Why is PixelTail actively removing and managing leaderboard bans quite often?
 
 <div style="text-align:center;">
   <img src="https://i.imgur.com/8DghpLV.png" width="800"/>
@@ -12,7 +11,7 @@ This doesn't make sense to me, with only 3 reports a week, they should only wipe
 
 A **leaderboard ban** (internally marked as _Flag64_) is supposed to prevent banned users from appearing on leaderboards.
 
-But it doesn’t delete the player’s score. Instead, it *tags* them, and a background system periodically hides those flagged users off the leaderboards. <br>Until that system runs again - the banned player remains visible, on every leaderboard across the game, not just the one they were banned from. Those reappearances then  **generate fresh reports** of cheating scores, which are later used against the player as evidence of repeated misconduct.
+But it doesn’t delete the player’s score. <br> Instead, it *tags* them, and a background system periodically hides those flagged users off the leaderboards. <br>Until that system runs again - the banned player remains visible, on every leaderboard across the game, not just the one they were banned from. Those reappearances then  **generate fresh reports** of cheating scores, which are later used against the player as evidence of repeated misconduct.
 
 There’s no exploit, no hack, and no workaround involved.
 The player has **zero control** over this reappearance. 
@@ -36,14 +35,14 @@ It's now been **6 weeks** since the issue was first reported, and GateTheCat joi
 SuSu's case isn't isolated - I've experienced the same issue firsthand.
 
 
-###  4. My Own Case
+##  4. My Own Case
 <div style="text-align:center;">
   <a href="https://i.imgur.com/4jDaUSM.png" target="_blank" rel="noopener noreferrer">
     <img src="https://i.imgur.com/4jDaUSM.png" width="200" />
   </a>
 </div>
 
-In **March 2020**, I received *the* first leaderboard ban. <br> By 2024, I had reappeared on the leaderboards **hundreds of times,**  [(^3)](https://web.archive.org/web/20250601003906/https://forums.pixeltailgames.com/t/1-0-0-0-suspicious-possibly-cheated-high-scores-by-a-specific-player-on-leaderboards-still-present-on-other-leaderboards/53241) - including reappearing at #1 in Laser Tag, the same position I held before the ban. The system still allows banned users to gain new score and passively climb the leaderboards - or simply reappear where they once were. I proved it with **before-and-after** screenshots showing my banned account reappearing at rank **#1,** unchanged since 2020. <br> It was proof that leaderboard bans were not working.
+In **March 2020**, I received *the first* leaderboard ban in the game. <br> By 2024, I had reappeared on the leaderboards **hundreds of times,**  [(^3)](https://web.archive.org/web/20250601003906/https://forums.pixeltailgames.com/t/1-0-0-0-suspicious-possibly-cheated-high-scores-by-a-specific-player-on-leaderboards-still-present-on-other-leaderboards/53241) - including reappearing at #1 in Laser Tag, the same position I held before the ban. The system still allows banned users to gain new score and passively climb the leaderboards - or simply reappear where they once were. I proved it with **before-and-after** screenshots showing my banned account reappearing at rank **#1,** unchanged since 2020. <br> It was proof that leaderboard bans were not working.
 <div style="text-align:center;">
   <a href="https://i.imgur.com/73nTHSv.png" target="_blank" rel="noopener noreferrer">
     <img src="https://i.imgur.com/73nTHSv.png" width="1400" />
@@ -107,9 +106,9 @@ MacDGuy led the community to believe that scores were wiped. That’s dishonest.
 Your score is still stored in the database. The only fix they’ve come up with is a cheap patch job: They’ve set the system to auto-refresh and remove flagged players from the leaderboard every cycle.
 
 And that’s why leaderboard ban appeals **can never succeed**.
-If they lift the ban, the same cheated score instantly reappears - exposing the fact that the system never actually removed it. <br>It proves the “ban” was not working as intended to begin with.
+If they lift the ban, the same cheated score instantly reappears - exposing the fact that the system never actually removed it. It proves the “ban” was not working as intended to begin with.
 
-With just a handful of acively playing users affected with this type of ban, PixelTail can comfortably ignore the problem, knowing the chances of anyone exposing how broken the system is are practically zero.
+With just a handful of users affected with this ban still playing the game, PixelTail can comfortably ignore the problem, knowing the chances of anyone exposing how broken the system is are practically zero.
 
 
 <div style="text-align:center;">
@@ -120,8 +119,7 @@ With just a handful of acively playing users affected with this type of ban, Pix
 
 ---
 
-I submitted my first ever leaderboard appeal after **five years**. They denied it after 3 hours.
-The appeal system isn’t there to offer second chances - it’s there to look like one exists. **More on this later.**
+I submitted my first ever leaderboard appeal after **five years**. They denied it after 3 hours. <br> The appeal system isn’t there to offer second chances - it’s there to look like one exists.
 
 
 
