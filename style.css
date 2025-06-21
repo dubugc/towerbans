@@ -118,10 +118,7 @@ blockquote {
   text-align: center;
 }
 
-
-
-
-
+/* Sticky navigation */
 .sticky-nav {
   position: sticky;
   top: 0;
@@ -153,10 +150,7 @@ blockquote {
   color: #c0d6ff;
 }
 
-
-
-
-
+/* Page wrapper */
 .page-wrapper {
   max-width: 70%;
   margin-left: auto;
@@ -168,8 +162,15 @@ blockquote {
   background-color: #1a1a1f;       
 }
 
+/* Responsive padding on smaller screens */
+@media (max-width: 600px) {
+  .container, .page-wrapper {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
 
-
+/* Rule links */
 .rule-links {
   margin-top: 1rem;
 }
@@ -196,67 +197,78 @@ blockquote {
   margin-right: 0;
 }
 
-
-
-
+/* Blog list styles */
 .blog-list {
   margin-top: 2rem;
 }
 
+/* Blog entries as grid with date + title */
 .blog-entry {
-  display: flex;
+  display: grid;
+  grid-template-columns: 80px 1fr;  /* 80px for date, rest for title */
+  column-gap: 1rem;
   align-items: center;
   margin-bottom: 1.5rem;
-  border-bottom: 1px solid #444766; /* subtle divider */
+  border-bottom: 1px solid #444766;
   padding-bottom: 0.5rem;
+  transition: background-color 0.3s ease;
 }
 
+/* Date styling */
 .blog-date {
-  min-width: 90px;            /* fix width for alignment */
-  color: #888cb4;             /* subtle gray */
+  color: #888cb4;
   font-family: monospace, monospace;
   font-size: 0.9rem;
   text-align: right;
-  margin-right: 1.5rem;
+  min-width: 80px;
 }
 
+/* Title styling */
 .blog-title {
   font-size: 1.2rem;
   font-weight: 600;
   color: #90caf9;
   text-decoration: none;
-  flex-grow: 1;
+  text-align: left;
+  white-space: nowrap;
+  margin: 0;
+  padding: 0;
+  transition: color 0.3s ease;
 }
 
-.blog-title:hover {
-  color: #69a6ff;
-  text-decoration: underline;
-}
-
-
-
-
+/* Hover effects */
 .blog-entry:hover {
-  background-color: rgba(105, 166, 255, 0.1); /* very light blue */
+  background-color: rgba(105, 166, 255, 0.1);
   cursor: pointer;
 }
 
 .blog-entry:hover .blog-title {
-  color: #69a6ff; /* reinforce link hover color */
+  color: #69a6ff;
+  text-decoration: underline;
 }
 
+/* Focus styles for accessibility */
+.blog-title:focus {
+  outline: 2px solid #69a6ff;
+  outline-offset: 2px;
+}
 
-
-
+/* Responsive for small screens */
 @media (max-width: 600px) {
   .blog-entry {
+    display: flex;
     flex-direction: column;
     align-items: flex-start;
   }
 
   .blog-date {
+    text-align: left;
     min-width: auto;
     margin-bottom: 0.3rem;
   }
-}
 
+  .container, .page-wrapper {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
