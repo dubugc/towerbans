@@ -1,3 +1,9 @@
+---
+layout: default
+title: Complete List of Bannable Rules
+permalink: /rules/
+---
+
 All rules listed have been officially stated by Pixeltail Staff on their forums, Discord, in-game, email replies, and moderation appeals.  <br>
 However, some rules are not disclosed and only become known after someone is banned and comes forward, indicating potential abuse of moderation.
 
