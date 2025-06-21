@@ -169,3 +169,32 @@ blockquote {
 }
 
 
+
+.rule-links {
+  margin-top: 1rem;
+}
+
+.rule-links a {
+  font-weight: bold;
+  margin-right: 1.5em;
+  text-decoration: none;
+}
+
+.rule-links a:nth-child(1) {
+  color: #f48fb1;
+}
+
+.rule-links a:nth-child(2) {
+  color: #ce93d8;
+}
+
+.rule-links a:nth-child(3) {
+  color: #f50057;
+}
+
+.rule-links a:last-child {
+  margin-right: 0;
+}
+
+
+
