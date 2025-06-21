@@ -10,33 +10,19 @@ title: TowerBans
     <p style="font-size: 1.2em; color: #bbb;">
       Transparency and fairness are paramount in our community.
     </p>
-  </div>
 
-  <hr />
-
-  <div style="margin-top: 2rem;">
-    <h2 style="color: #f48fb1;">📜 Bannable Offences</h2>
-    <ul style="padding-left: 1.2em; line-height: 1.6;">
-      <li>Harassment or targeted abuse</li>
-      <li>NSFW or pornographic content in public condos</li>
-      <li>Gore or shock imagery</li>
-      <li>Underage/cub/shotacon/lolicon content (even stylised)</li>
-      <li>Evading moderation via alt accounts</li>
-      <li>Hosting condos for banned users</li>
-      <li>Use of slurs or hate speech</li>
-      <li>Persistent griefing or trolling</li>
-    </ul>
-  </div>
-
-  <div style="margin-top: 2rem;">
-    <h2 style="color: #ce93d8;">🚫 Censored Words</h2>
-    <p style="font-size: 0.95em; color: #aaa;">Words blocked automatically by our moderation system:</p>
-    <div style="background-color: #2a2a2a; padding: 1em; border-radius: 6px; font-size: 0.95em; color: #eee;">
-      <code>nigger, faggot, kike, tranny, rape, cp, cub, shota, loli, zoophilia, bestiality</code>
+    <!-- Links to Rules and Censored Words pages -->
+    <div style="margin-top: 1rem;">
+      <a href="{{ site.baseurl }}/rules" style="margin-right: 1.5em; font-weight: bold; color: #f48fb1;">
+        🔗 Rules
+      </a>
+      <a href="{{ site.baseurl }}/censored-words" style="font-weight: bold; color: #ce93d8;">
+        🔗 Censored Words
+      </a>
     </div>
   </div>
 
-  <hr style="margin-top: 2.5rem;" />
+  <hr />
 
   <h2 style="margin-top: 2rem; color: #90caf9;">📚 Blog Archive</h2>
 
