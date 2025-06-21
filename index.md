@@ -22,15 +22,18 @@ title: TowerBans
 
   <h2 style="margin-top: 2rem; color: #90caf9;">📚 Blog Archive</h2>
 
-  <ul style="list-style: none; padding-left: 0;">
-    {% for post in site.posts %}
-      <li style="margin-bottom: 1.5em;">
-        <a href="{{ site.baseurl }}{{ post.url }}" style="font-size: 1.2em; font-weight: 600; color: #90caf9;">
-          {{ post.title }}
-        </a><br />
-        <small style="color: #888;">{{ post.date | date: "%d %B %Y" }}</small>
-      </li>
-    {% endfor %}
-  </ul>
+<div class="blog-list">
+  {% for post in site.posts %}
+    <div class="blog-entry">
+      <time class="blog-date" datetime="{{ post.date | date_to_xmlschema }}">
+        {{ post.date | date: "%d/%m/%Y" }}
+      </time>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="blog-title">
+        {{ post.title }}
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
 
 </div>
