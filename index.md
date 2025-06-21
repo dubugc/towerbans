@@ -7,9 +7,6 @@ title: TowerBans
 
   <div style="text-align: center; margin-top: 2rem;">
     <h1>🍔 TowerBans 🍔</h1>
-    <p style="font-size: 1.2em; color: #bbb;">
-      Transparency and fairness are paramount in our community.
-    </p>
 
 <div class="rule-links">
   <a href="{{ site.baseurl }}/rules/">🔗 Bannable Rules</a>
@@ -17,6 +14,9 @@ title: TowerBans
   <a href="{{ site.baseurl }}/banned-players/">🔗 Banned Players</a>
 </div>
 
+    <p style="font-size: 1.2em; color: #bbb;">
+      Transparency and fairness are paramount in our community.
+    </p>
 
   <hr />
 
