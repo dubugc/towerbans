@@ -1,4 +1,5 @@
 
+
 ## 1. How It Works
 On February 19th 2024, MacDGuy admitted that cheating scores remain an unresolved problem - a problem PixelTail claims to be tackling. But in reality, the system designed to punish cheaters is broken, and those who expose it are punished more harshly than the cheaters themselves.
 
@@ -14,21 +15,23 @@ A **leaderboard ban** (internally marked as _Flag64_) is supposed to prevent ban
 
 But it doesn’t delete the player’s score. <br> Instead, it *tags* them, and a background system periodically hides those flagged users off the leaderboards. <br>Until that system runs again - the banned player remains visible, on every leaderboard across the game, not just the one they were banned from. Those reappearances then  **generate fresh reports** of cheating scores, which are later used against the player as evidence of repeated misconduct.
 
+> *“There’s someone who is leaderboard banned and has had their score wiped for a mini game, but I’m pretty sure them playing it once and getting points is enough to get the score back up”* [(^)](https://i.imgur.com/SxCflAz.png)
+> Melonplex, 11/4/**2021** 
+
 There’s no exploit, no hack, and no workaround involved.
 The player has **zero control** over this reappearance. 
 
 <div style="text-align:center;">
   <img src="https://i.imgur.com/uQCWXOD.png" width="800"/>
 </div>
-
-<br>
-
 <div style="text-align:center;">
   <img src="https://i.imgur.com/KhPl8JD.png" width="600"/>
 </div>
 
+<br>
+
 <div style="text-align:center;">
-  <img src="https://i.imgur.com/lgSrcWd.png" width="600"/>
+  <img src="https://i.imgur.com/lgSrcWd.png" width="400"/>
 </div>
 
 ## 3. Reappearances Amplify Punishment
@@ -135,6 +138,8 @@ They _can’t_ delete a banned player’s old score.
 MacDGuy led the community to believe that scores were wiped. That’s dishonest. <br> The truth is, **PixelTail has never had the infrastructure to reset scores**.
 
 Your score is still stored in the database. The only fix they’ve come up with is a cheap patch job: They’ve set the system to auto-refresh and remove flagged players from the leaderboard every cycle. And that’s why leaderboard ban appeals **can never succeed**. <br> If they lift the ban, the same cheated score instantly reappears - exposing the fact that the system never actually removed it. It proves the “ban” was not working as intended to begin with.
+
+
 
 With just a handful of users affected with this ban still playing the game, PixelTail can comfortably ignore the problem, knowing the chances of anyone exposing how broken the system is are practically zero.
 
