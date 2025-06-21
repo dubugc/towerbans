@@ -1,3 +1,4 @@
+
 ## 1. How It Works
 On February 19th 2024, MacDGuy confirmed that **cheating scores is a difficult problem to completely resolve**,
 
@@ -17,20 +18,18 @@ There’s no exploit, no hack, and no workaround involved.
 The player has **zero control** over this reappearance. 
 
 <div style="text-align:center;">
-  <img src="https://i.imgur.com/2QiPWCS.png" width="800"/>
+  <img src="https://i.imgur.com/uQCWXOD.png" width="800"/>
 </div>
 
-<div style="text-align:center;">
-  <img src="https://i.imgur.com/KhPl8JD.png" width="800"/>
-</div>
+<br>
 
 <div style="text-align:center;">
-  <img src="https://i.imgur.com/xJXIZPU.png" width="800"/>
+  <img src="https://i.imgur.com/KhPl8JD.png" width="600"/>
 </div>
 
 ## 3. Reappearances Amplify Punishment
 ###  The Case of SuSu
-In **April 2025**, **NixEmotions** raised a concern, a Chinese player named **SuSu** had cheated their way to the top of the **Trivia** leaderboard. The devs responded by applying a leaderboard ban and removing that specific score. 
+In **April 2025**, **NixEmotions** raised a concern, a Chinese player named **SuSu** had cheated their way to the top of the **Trivia** leaderboard. The devs responded by applying a leaderboard ban and r*emoving that specific score*. 
 
 <div style="text-align:left;">
   <img src="https://i.imgur.com/HSEbxPo.png" width="400"/>
@@ -40,9 +39,20 @@ In **April 2025**, **NixEmotions** raised a concern, a Chinese player named **Su
 
 Nix believed if the Trivia score was wiped due to suspected cheating, it's only reasonable that **all** of SuSu’s scores be **scrutinised**, if not removed entirely, to maintain the **integrity of the leaderboards** and respect the time and effort of legitimate players. <br> SuSu's scores *were* removed, but the system allows reappearances onto the leaderboards within minutes after the server refresh.
 
+<div style="text-align:center;">
+  <img src="https://i.imgur.com/vpkjJ4J.png" width="600"/>
+</div>
+
 Despite multiple reports and the ban still in place, **SuSu would later reclaim #1 in Trivia, again.**
 
 It's now been **6 weeks** since the issue was first reported, and GateTheCat joined the conversation showing a screenshot of SuSu yet again returning to rank **#1 in Trivia**. <br> At this point, there's no question that **there's something wrong with the ban system**.  [(^2)](https://forums.pixeltailgames.com/t/1-0-0-0-suspicious-possibly-cheated-high-scores-by-a-specific-player-on-leaderboards-still-present-on-other-leaderboards/53241) 
+
+<div style="text-align:center;">
+  <img src="https://i.imgur.com/ybaDH9W.png" width="400"/>
+</div>
+<div style="text-align:center;">
+  <img src="https://i.imgur.com/Q128Oc2.png" width="400"/>
+</div>
 
 SuSu's case isn't isolated - I've experienced the same issue firsthand.
 
@@ -70,7 +80,11 @@ The devs didn't respond. <br>Instead, my post exposing this flaw - and the repea
 Each reappearance triggers more reports on players with leaderboard bans - a pattern clearly visible with what's going on in Nix's thread.
 PixelTail uses those additional new reports to justify further punishments like mutes and server bans - never questioning why a banned player was visible in the first place. 
 
-In my own case, I was reported multiple times in **March 2024** for **cheating** my way onto the Laser Tag leaderboards **overnight**. 
+<div style="text-align:center;">
+  <img src="https://i.imgur.com/xJXIZPU.png" width="400"/>
+</div>
+
+In my own case, I was reported multiple times during a **March 2024** unofficial Laser Tag weekend for **cheating** my way onto the leaderboards **overnight**. 
 
 <div style="text-align:center;">
   <a href="https://i.imgur.com/4zbAAeF.png" target="_blank" rel="noopener noreferrer">
@@ -113,7 +127,7 @@ When the broken system was exposed, MacDGuys response was **accusing me of sprea
 Here’s the second flaw they won’t acknowledge:  
 They _can’t_ delete a banned player’s old score. 
 
-MacDGuy led the community to believe that scores were wiped. That’s dishonest. <br> The truth is, **PixelTail doesn’t even have the infrastructure to reset scores**.
+MacDGuy led the community to believe that scores were wiped. That’s dishonest. <br> The truth is, **PixelTail has never had the infrastructure to reset scores**.
 
 Your score is still stored in the database. The only fix they’ve come up with is a cheap patch job: They’ve set the system to auto-refresh and remove flagged players from the leaderboard every cycle. And that’s why leaderboard ban appeals **can never succeed**. <br> If they lift the ban, the same cheated score instantly reappears - exposing the fact that the system never actually removed it. It proves the “ban” was not working as intended to begin with.
 
