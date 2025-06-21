@@ -1,3 +1,9 @@
+---
+layout: default
+title: Complete List of Censored Words
+permalink: /censored-words/
+---
+
 anus <br>
 arse <br>
 arsehole <br>
