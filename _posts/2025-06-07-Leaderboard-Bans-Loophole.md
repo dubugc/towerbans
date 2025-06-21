@@ -20,6 +20,10 @@ The player has **zero control** over this reappearance.
   <img src="https://i.imgur.com/2QiPWCS.png" width="800"/>
 </div>
 
+<div style="text-align:center;">
+  <img src="https://i.imgur.com/KhPl8JD.png" width="800"/>
+</div>
+
 ## 3. Reappearances Amplify Punishment
 ###  The Case of SuSu
 In **April 2025**, **NixEmotions** raised a concern, a Chinese player named **SuSu** had cheated their way to the top of the **Trivia** leaderboard. The devs responded by applying a leaderboard ban and removing that specific score. 
