@@ -1,6 +1,6 @@
 
 ## 1. How It Works
-On February 19th 2024, MacDGuy confirmed that **cheating scores is a difficult problem to completely resolve**,
+On February 19th 2024, MacDGuy admitted that cheating scores remain an unresolved problem - a problem PixelTail claims to be tackling. But in reality, the system designed to punish cheaters is broken, and those who expose it are punished more harshly than the cheaters themselves.
 
 According to MacDGuy, any player who cheats will receive a leaderboard ban. This means the player is permanently banned from having their scores display on leaderboards and their current scores wiped. PixelTail mentioned that they receive 3 reports weekly regarding players cheating scores, and that they are actively removing entries quite often. <br> but this doesn't make sense to me, with only 3 reports a week, they should only wipe 3 entries. <br> Why is PixelTail actively removing and managing leaderboard bans quite often?
 
@@ -109,10 +109,11 @@ PixelTail cited these reports from **March 2024** in my ban appeal and stated I 
 
 
 
-## 6. Censorship & Gaslighting
+## 6. Deletion, Denial, and Narrative Control
 I sought to understand the reasoning for my posts removal, by laying out the facts one more time, attaching the screenshot as proof again. I offered to demonstrate to MacDGuy in-game on how leaderboard bans currently fail to function.  [(^4)](https://web.archive.org/web/20250601074659/https://forums.pixeltailgames.com/t/moderation-impacting-mental-wellbeing/53401) 
 
-Mac **edited my thread** instead, deleting the attached proof and pretends in the *'deleted-post'* that I never reported the leaderboard issue to the moderation team initially. [(^5)](https://web.archive.org/web/20250601092822/https://forums.pixeltailgames.com/t/moderation-impacting-mental-wellbeing/53401)
+Mac didn’t refute my claims - he **deleted the attached proof** and rewrote my words to imply I never reported the issue.
+It wasn’t just censorship, it was editorial manipulation of user posts to maintain the illusion that nothing was wrong. [(^5)](https://web.archive.org/web/20250601092822/https://forums.pixeltailgames.com/t/moderation-impacting-mental-wellbeing/53401)
 <div style="text-align:center;">
   <img src="https://i.imgur.com/fH6Ui7w.png" width="600"/>
 </div>
@@ -142,7 +143,7 @@ With just a handful of users affected with this ban still playing the game, Pixe
 
 ---
 
-I submitted my first ever leaderboard appeal after **five years**. They denied it in 3 hours. <br> The appeal system isn’t there to offer second chances - it’s there to look like one exists.
+The broken leaderboard system is more than a flaw — it’s a **liability**. One PixelTail has repeatedly silenced anyone who dares to expose it. <br> They knew I knew, so I decided to submit my first ever leaderboard appeal after **five years**. They denied it in 3 hours. <br> The appeal system isn’t there to offer second chances - it’s there to look like one exists.
 
 
 
