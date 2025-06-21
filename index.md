@@ -11,12 +11,12 @@ title: TowerBans
       Transparency and fairness are paramount in our community.
     </p>
 
-    <!-- Links to Rules and Censored Words posts -->
+    <!-- Visible rule links below header -->
     <div style="margin-top: 1rem;">
-      <a href="{{ site.baseurl }}/2025/01/01/Complete-List-Of-Bannable-Rules" style="margin-right: 1.5em; font-weight: bold; color: #f48fb1;">
+      <a href="{{ site.baseurl }}/rules/" style="margin-right: 1.5em; font-weight: bold; color: #f48fb1;">
         🔗 Bannable Rules
       </a>
-      <a href="{{ site.baseurl }}/2025/01/01/Complete-List-Of-Censored-Words" style="font-weight: bold; color: #ce93d8;">
+      <a href="{{ site.baseurl }}/censored-words/" style="font-weight: bold; color: #ce93d8;">
         🔗 Censored Words
       </a>
     </div>
