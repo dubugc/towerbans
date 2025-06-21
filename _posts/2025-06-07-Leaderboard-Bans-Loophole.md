@@ -29,7 +29,7 @@ The player has **zero control** over this reappearance.
 
 ## 3. Reappearances Amplify Punishment
 ###  The Case of SuSu
-In **April 2025**, **NixEmotions** raised a concern, a Chinese player named **SuSu** had cheated their way to the top of the **Trivia** leaderboard. The devs responded by applying a leaderboard ban and r*emoving that specific score*. 
+In **April 2025**, **NixEmotions** raised a concern, a Chinese player named **SuSu** had cheated their way to the top of the **Trivia** leaderboard. The devs responded by applying a leaderboard ban and *"removing that specific score"*. 
 
 <div style="text-align:left;">
   <img src="https://i.imgur.com/HSEbxPo.png" width="400"/>
@@ -88,13 +88,13 @@ In my own case, I was reported multiple times during a **March 2024** unofficial
 
 <div style="text-align:center;">
   <a href="https://i.imgur.com/4zbAAeF.png" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.imgur.com/4zbAAeF.png" width="1400" />
+    <img src="https://i.imgur.com/4zbAAeF.png" width="600" />
   </a>
 </div>
 
 <div style="text-align:center;">
   <a href="https://i.imgur.com/V0utPz7.png" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.imgur.com/V0utPz7.png" width="400" />
+    <img src="https://i.imgur.com/V0utPz7.png" width="600" />
   </a>
 </div>
 
