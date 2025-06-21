@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Complete List of Censored Words
 permalink: /censored-words/
 ---
