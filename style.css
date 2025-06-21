@@ -198,3 +198,39 @@ blockquote {
 
 
 
+
+.blog-list {
+  margin-top: 2rem;
+}
+
+.blog-entry {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #444766; /* subtle divider */
+  padding-bottom: 0.5rem;
+}
+
+.blog-date {
+  min-width: 90px;            /* fix width for alignment */
+  color: #888cb4;             /* subtle gray */
+  font-family: monospace, monospace;
+  font-size: 0.9rem;
+  text-align: right;
+  margin-right: 1.5rem;
+}
+
+.blog-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #90caf9;
+  text-decoration: none;
+  flex-grow: 1;
+}
+
+.blog-title:hover {
+  color: #69a6ff;
+  text-decoration: underline;
+}
+
+
