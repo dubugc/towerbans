@@ -234,3 +234,29 @@ blockquote {
 }
 
 
+
+
+.blog-entry:hover {
+  background-color: rgba(105, 166, 255, 0.1); /* very light blue */
+  cursor: pointer;
+}
+
+.blog-entry:hover .blog-title {
+  color: #69a6ff; /* reinforce link hover color */
+}
+
+
+
+
+@media (max-width: 600px) {
+  .blog-entry {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .blog-date {
+    min-width: auto;
+    margin-bottom: 0.3rem;
+  }
+}
+
