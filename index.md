@@ -11,19 +11,12 @@ title: TowerBans
       Transparency and fairness are paramount in our community.
     </p>
 
-    <!-- Visible rule links below header -->
-    <div style="margin-top: 1rem;">
-      <a href="{{ site.baseurl }}/rules/" style="margin-right: 1.5em; font-weight: bold; color: #f48fb1;">
-        🔗 Bannable Rules
-      </a>
-      <a href="{{ site.baseurl }}/censored-words/" style="font-weight: bold; color: #ce93d8;">
-        🔗 Censored Words
-      </a>
-      <a href="{{ site.baseurl }}/banned-players/" style="font-weight: bold; color: #f50057;">
-        🔗 Banned Players
-      </a>
-    </div>
-  </div>
+<div class="rule-links">
+  <a href="{{ site.baseurl }}/rules/">🔗 Bannable Rules</a>
+  <a href="{{ site.baseurl }}/censored-words/">🔗 Censored Words</a>
+  <a href="{{ site.baseurl }}/banned-players/">🔗 Banned Players</a>
+</div>
+
 
   <hr />
 
