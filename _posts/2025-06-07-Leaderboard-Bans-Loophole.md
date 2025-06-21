@@ -143,7 +143,7 @@ With just a handful of users affected with this ban still playing the game, Pixe
 
 ---
 
-The broken leaderboard system is more than a flaw — it’s a **liability**. One PixelTail has repeatedly silenced anyone who dares to expose it. <br> They knew I knew, so I decided to submit my first ever leaderboard appeal after **five years**. They denied it in 3 hours. <br> The appeal system isn’t there to offer second chances - it’s there to look like one exists.
+The broken leaderboard system is more than a flaw - it’s a **liability**. One PixelTail has repeatedly silenced anyone who dares to expose it. <br> They knew I knew, so I decided to submit my first ever leaderboard appeal after **five years**. They denied it in 3 hours. <br> The appeal system isn’t there to offer second chances - it’s there to look like one exists.
 
 
 
