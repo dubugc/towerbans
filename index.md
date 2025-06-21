@@ -19,7 +19,7 @@ title: TowerBans
       <a href="{{ site.baseurl }}/censored-words/" style="font-weight: bold; color: #ce93d8;">
         🔗 Censored Words
       </a>
-      <a href="{{ site.baseurl }}/banned-players/" style="font-weight: bold; color: #ce93d8;">
+      <a href="{{ site.baseurl }}/banned-players/" style="font-weight: bold; color: #f50057;">
         🔗 Banned Players
       </a>
     </div>
