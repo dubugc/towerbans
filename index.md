@@ -9,9 +9,9 @@ title: TowerBans
     <h1>🍔 TowerBans 🍔</h1>
 
 <div class="rule-links">
-  <a href="{{ site.baseurl }}/rules/">🔗 Bannable Rules</a>
-  <a href="{{ site.baseurl }}/censored-words/">🔗 Censored Words</a>
-  <a href="{{ site.baseurl }}/banned-players/">🔗 Banned Players</a>
+  <a href="{{ site.baseurl }}/rules/">Bannable Rules</a>
+  <a href="{{ site.baseurl }}/censored-words/">Censored Words</a>
+  <a href="{{ site.baseurl }}/banned-players/">Banned Players</a>
 </div>
 
     <p style="font-size: 1.2em; color: #bbb;">
@@ -20,7 +20,7 @@ title: TowerBans
 
   <hr />
 
-  <h2 style="margin-top: 2rem; color: #90caf9;">📚 Blog Archive</h2>
+  <h2 style="margin-top: 2rem; color: #90caf9;">📚 Archive</h2>
 
 <div class="blog-list">
   {% for post in site.posts %}
