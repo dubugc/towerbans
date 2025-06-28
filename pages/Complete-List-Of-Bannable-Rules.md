@@ -4,10 +4,52 @@ title: Complete List of Bannable Rules
 permalink: /rules/
 ---
 
-All rules listed have been officially stated by Pixeltail Staff on their forums, Discord, in-game, email replies, and moderation appeals.  <br>
-However, some rules are not disclosed and only become known after someone is banned and comes forward, indicating potential abuse of moderation.
+Regardless of prior offences, the usage of racist slurs will get you **permanently banned.** <br>No warnings, **instant ban**.
 
-### In-game Rules
+All rules listed have been officially stated by Pixeltail Staff on their Forums, Discord, in-game, email replies, Terms of Service and Moderation appeals. <br>Some rules are not disclosed and only become known after someone is banned and comes forward, indicating potential abuse of moderation. <br> However, according to their EULA, they retain full authority to terminate your access, restrict features, and enforce penalties at any time, with or without explanation, notification, or recourse. This grants them unchecked power over your account and content, regardless of transparency or fairness.
+
+---
+
+# 📃 END USER LICENSE AGREEMENT
+
+> “_We reserve the right to terminate this Agreement at any time for any
+> reason, or for no reason, with or without notice to you._”
+
+> “_PixelTail Games reserves the right to moderate the Official Servers
+> at our discretion and have final say on actions taken upon your
+> account._”
+
+> “_We reserve the right to prohibit your access and/or ability to use
+> Inventory services… earn Units, host servers… or communicate with
+> other players._”
+
+> “_You understand and agree that PixelTail Games may remove postings
+> that contain objectionable material, spam, or otherwise violates the
+> foregoing terms._”
+
+> “_There will be no liability for any personal injury… or any
+> intentional tort committed by you or any other person…_”
+
+> “_PixelTail Games reserves the right to modify the terms of this EULA
+> from time to time…_”
+
+PixelTail reserves the right to terminate your license to use the game at any time, **without cause, warning, or refund**.
+You can lose access for **off-platform behaviour**, even if it isn’t explicitly listed as a violation.
+
+The phrase _“at our discretion”_ means they don’t need to follow set criteria or **provide logs, context, or justification**.
+
+PixelTail can **mute you, restrict features, or block functionality** without actually banning your account. There’s **no requirement** for fairness, consistency, or transparency.
+
+The term _“objectionable”_ is **deliberately vague**, allowing the devs to delete content **even if it doesn’t violate any specific rule**.
+
+If something breaks, causes loss, or harms you while using their platform, **PixelTail disclaims nearly all liability.**
+
+They are **not obligated to inform users** when the End User License Agreement is updated — changes can happen silently and be enforced immediately. [(^)](https://store.steampowered.com/eula/394690_eula_1)
+
+
+
+# 📃 In-game Rules
+
 Treat others with respect. <br>
 No Racism. <br>
 No Sexism. <br>
