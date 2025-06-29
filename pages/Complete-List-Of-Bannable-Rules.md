@@ -13,18 +13,18 @@ All rules listed have been officially stated by Pixeltail Staff on their Forums,
 # 📃 END USER LICENSE AGREEMENT
 
 > “_We reserve the right to terminate this Agreement at any time for any
-> reason, or for no reason, with or without notice to you._”
+> reason, or for no reason, with or without notice to you._” <br>
 > “_PixelTail Games reserves the right to moderate the Official Servers
 > at our discretion and have final say on actions taken upon your
-> account._”
+> account._”<br>
 > “_We reserve the right to prohibit your access and/or ability to use
 > Inventory services… earn Units, host servers… or communicate with
-> other players._”
+> other players._”<br>
 > “_You understand and agree that PixelTail Games may remove postings
 > that contain objectionable material, spam, or otherwise violates the
-> foregoing terms._”
+> foregoing terms._”<br>
 > “_There will be no liability for any personal injury… or any
-> intentional tort committed by you or any other person…_”
+> intentional tort committed by you or any other person…_”<br>
 > “_PixelTail Games reserves the right to modify the terms of this EULA
 > from time to time…_”
 
