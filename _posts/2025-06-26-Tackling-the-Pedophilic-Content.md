@@ -17,13 +17,13 @@ Moderation was slow to ban them, and many in the community recommended leaving b
 
 Eventually, these players hosting the material *were* banned - but only after multiple reports. Yet the cycle continued. New condos with the same content kept appearing. **You’d unknowingly walk into one and suddenly be staring at CP**, because there were no 18+ tags or family filters. 
 
+It created the illusion that every condo potentially had porn in it, and Tower Unite was quietly becoming known as _the porn game_. Predators could do whatever they wanted, while everyone else was told to **ignore it**.
+
 <div style="text-align:center;">
   <a href="https://i.imgur.com/jKrpejm.png" target="_blank" rel="noopener noreferrer">
     <img src="https://i.imgur.com/jKrpejm.png" width="600" />
   </a>
 </div>
-
-It created the illusion that every condo potentially had porn in it, and Tower Unite was quietly becoming known as _the porn game_. Predators could do whatever they wanted, while everyone else was told to **ignore it**.
 
 Then someone finally had enough.
 
@@ -128,11 +128,11 @@ There were no rules requiring hosts to do so either. You could still walk into a
 
 ## 🖕Mature Content System
 
-<div style="text-align:center;"> <a href="https://i.imgur.com/CKOTMZg.png" target="_blank" rel="noopener noreferrer"> <img src="https://i.imgur.com/tQhWAF7.png" width="800" /> </a> </div>
-
 The updates to hinder illicit condos were just not working until **October 2024**.
 
 PixelTail introduced actual real restrictions to control the flood of sexual content in public condos - *nearly 8 years after launch*. <br>The update made all **18+ condos hidden by default**, slapped on **warning labels**, and forced players to manually **opt-in** just to see them.
+
+<div style="text-align:center;"> <a href="https://i.imgur.com/CKOTMZg.png" target="_blank" rel="noopener noreferrer"> <img src="https://i.imgur.com/tQhWAF7.png" width="800" /> </a> </div>
 
 <div style="text-align:center;"> <a href="https://i.imgur.com/CKOTMZg.png" target="_blank" rel="noopener noreferrer"> <img src="https://i.imgur.com/CKOTMZg.png" width="600" /> </a> </div>
 
@@ -151,4 +151,10 @@ This is something that should have been implemented nearly a decade ago. The rea
 <div style="text-align:center;">
 <a href="https://i.imgur.com/k08kzd7.png" target="_blank" rel="noopener noreferrer">
 <img src="https://i.imgur.com/k08kzd7.png" width="800" /> </a> </div>
+
+
+
+
+
+
 
