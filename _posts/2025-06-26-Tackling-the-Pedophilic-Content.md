@@ -1,18 +1,6 @@
-
-<div style="text-align:center;">
-<a href="https://i.imgur.com/2S7J8Ru.png" target="_blank" rel="noopener noreferrer">
-<img src="https://i.imgur.com/2S7J8Ru.png" width="600" /> </a> </div>
-
-
-## 🚨 Tackling the Pedophilic Content
-
-Tower Unite used to have a **major pedophilia problem**. 
-
 <a href="https://i.imgur.com/rmh4A9R.png" target="_blank" rel="noopener noreferrer"> <img src="https://i.imgur.com/rmh4A9R.png" width="600" /> </a> </div>
 
-<div style="text-align:center;">
-<a href="https://i.imgur.com/k08kzd7.png" target="_blank" rel="noopener noreferrer">
-<img src="https://i.imgur.com/k08kzd7.png" width="800" /> </a> </div>
+Tower Unite used to have a **major pedophilia problem**. 
 
 We're talking **lolicon**, **shotacon**, **cub art**, and **real underage content** hosted in players condos. 
 Moderation was slow to ban them, and many in the community recommended leaving bad reviews to point out the pedo problem to unsuspecting buyers. Others warned that even *talking about* the problem could lead to ***in-game mutes***, feeding a perception that the developers were more focused on silencing discussion than removing the content.
@@ -20,6 +8,7 @@ Moderation was slow to ban them, and many in the community recommended leaving b
 <div style="text-align:center;">
 <a href="https://i.imgur.com/nolfrHM.png" target="_blank" rel="noopener noreferrer">
 <img src="https://i.imgur.com/nolfrHM.png" width="600" /> </a> </div>
+
 <div style="text-align:center;">
   <a href="https://i.imgur.com/PkptbFt.png" target="_blank" rel="noopener noreferrer">
     <img src="https://i.imgur.com/PkptbFt.png" width="600" />
@@ -141,7 +130,7 @@ There were no rules requiring hosts to do so either. You could still walk into a
 
 <div style="text-align:center;"> <a href="https://i.imgur.com/CKOTMZg.png" target="_blank" rel="noopener noreferrer"> <img src="https://i.imgur.com/tQhWAF7.png" width="800" /> </a> </div>
 
-The updates to subtly hinder illicit condos were just not working until **October 2024**.
+The updates to hinder illicit condos were just not working until **October 2024**.
 
 PixelTail introduced actual real restrictions to control the flood of sexual content in public condos - *nearly 8 years after launch*. <br>The update made all **18+ condos hidden by default**, slapped on **warning labels**, and forced players to manually **opt-in** just to see them.
 
@@ -157,3 +146,9 @@ PixelTail introduced actual real restrictions to control the flood of sexual con
 This is something that should have been implemented nearly a decade ago. The reasoning for PixelTail putting it off for as long as they could was due to wanting to keep a neutral stance on mature content in their game. But players started to complain too loudly through negative reviews, and many talked about Tower Unite getting sued into oblivion once news articles found out what was going on.
 
 <div style="text-align:center;"> <a href="https://i.imgur.com/wgWHgM4.png" target="_blank" rel="noopener noreferrer"> <img src="https://i.imgur.com/wgWHgM4.png" width="800" /> </a> </div>
+
+
+<div style="text-align:center;">
+<a href="https://i.imgur.com/k08kzd7.png" target="_blank" rel="noopener noreferrer">
+<img src="https://i.imgur.com/k08kzd7.png" width="800" /> </a> </div>
+
