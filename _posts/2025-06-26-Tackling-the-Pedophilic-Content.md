@@ -1,3 +1,4 @@
+
 <a href="https://i.imgur.com/rmh4A9R.png" target="_blank" rel="noopener noreferrer"> <img src="https://i.imgur.com/rmh4A9R.png" width="600" /> </a> </div>
 
 Tower Unite used to have a **major pedophilia problem**. 
@@ -130,7 +131,10 @@ There were no rules requiring hosts to do so either. You could still walk into a
 
 The updates to hinder illicit condos were just not working until **October 2024**.
 
-PixelTail introduced actual real restrictions to control the flood of sexual content in public condos - *nearly 8 years after launch*. <br>The update made all **18+ condos hidden by default**, slapped on **warning labels**, and forced players to manually **opt-in** just to see them.
+PixelTail introduced actual real restrictions to control the flood of sexual content in public condos - *nearly 8 years after launch*. <br>The update made all **18+ condos hidden by default**, slapped on **warning labels**, and forced players to manually **opt-in** just to see them. 
+
+
+
 
 <div style="text-align:center;"> <a href="https://i.imgur.com/CKOTMZg.png" target="_blank" rel="noopener noreferrer"> <img src="https://i.imgur.com/tQhWAF7.png" width="800" /> </a> </div>
 
@@ -141,20 +145,13 @@ PixelTail introduced actual real restrictions to control the flood of sexual con
 
 <div style="text-align:center;"> <a href="https://i.imgur.com/b5mO2gX.png" target="_blank" rel="noopener noreferrer"> <img src="https://i.imgur.com/b5mO2gX.png" width="400" /> </a> </div>
 
----
+## 📅 8 Years Too Late
 
-This is something that should have been implemented nearly a decade ago. The reasoning for PixelTail putting it off for as long as they could was due to wanting to keep a neutral stance on mature content in their game. But players started to complain too loudly through negative reviews, and many talked about Tower Unite getting sued into oblivion once news articles found out what was going on.
+This update should have been implemented nearly a decade ago. PixelTail delayed it for years, reportedly out of concern that it could promote and generate NSFW content, particularly considering what was already being displayed in mature condos at the time.
+
+<div style="text-align:center;"> <a href="https://i.imgur.com/k5KDA43.png" target="_blank" rel="noopener noreferrer"> <img src="https://i.imgur.com/k5KDA43.png" width="800" /> </a> </div>
+
+But players had been suggesting a change for years. As complaints grew louder through negative reviews and forum posts as a way to force a change, many began openly speculating that Tower Unite could face legal trouble if media outlets caught wind of what was happening. 
 
 <div style="text-align:center;"> <a href="https://i.imgur.com/wgWHgM4.png" target="_blank" rel="noopener noreferrer"> <img src="https://i.imgur.com/wgWHgM4.png" width="800" /> </a> </div>
-
-
-<div style="text-align:center;">
-<a href="https://i.imgur.com/k08kzd7.png" target="_blank" rel="noopener noreferrer">
-<img src="https://i.imgur.com/k08kzd7.png" width="800" /> </a> </div>
-
-
-
-
-
-
 
