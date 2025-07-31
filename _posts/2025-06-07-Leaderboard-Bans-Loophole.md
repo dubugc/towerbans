@@ -127,6 +127,11 @@ It wasn’t just censorship, it was editorial manipulation of user posts to main
 
 When the broken system was exposed, MacDGuys response was **accusing me of spreading exploits** as justification for its removal. <br>  I reported a system that had not worked as intended for the last 5 years, dating back to **before the Arcade even existed.** I later called him a **liar** for deleting proof and painting me in a false light on his platform, I was swiftly banned from the forum for “Harassment.” [(^6)](https://web.archive.org/web/20250601115047/https://forums.pixeltailgames.com/t/regarding-forum-moderation-leaderboard-ban-report/53402)
 
+
+<div style="text-align:center;">
+  <img src="https://i.imgur.com/VNvd1xk.png" width="400"/>
+</div>
+
 <div style="text-align:center;">
   <img src="https://i.imgur.com/cPNa1hw.png" width="400"/>
 </div>
