@@ -5,6 +5,7 @@ permalink: /rules/
 ---
 
 Regardless of prior offences, the usage of racist slurs will get you **permanently banned.** <br>No warnings, **instant ban**.
+Additionally, PixelTail will issue immediate temporary bans if any report contains the use of transphobic, homophobic, anti-semitism and any other forms of discrimination.
 
 All rules listed have been officially stated by Pixeltail Staff on their Forums, Discord, in-game, email replies, Terms of Service and Moderation appeals. <br>Some rules are not disclosed and only become known after someone is banned and comes forward, indicating potential abuse of moderation. <br> However, according to their EULA, they retain full authority to terminate your access, restrict features, and enforce penalties at any time, with or without explanation, notification, or recourse. This grants them unchecked power over your account and content, regardless of transparency or fairness.
 
